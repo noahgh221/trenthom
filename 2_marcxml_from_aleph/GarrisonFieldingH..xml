@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01011npcaa2200217Ia 450 </marc:leader>
+        <marc:controlfield tag="001">002138371</marc:controlfield>
+        <marc:controlfield tag="005">20130920165941.0</marc:controlfield>
+        <marc:controlfield tag="008">130920i19171928xxu                 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">858693354</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDD</marc:subfield>
+            <marc:subfield code="c">NDD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDDP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Garrison, Fielding H.</marc:subfield>
+            <marc:subfield code="q">(Fielding Hudson),</marc:subfield>
+            <marc:subfield code="d">1870-1935.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Fielding H. Garrison letters,</marc:subfield>
+            <marc:subfield code="f">1917, 1928.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">2</marc:subfield>
+            <marc:subfield code="f">items.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="545" ind1=" " ind2=" ">
+            <marc:subfield code="a">Medical librarian and historian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="8" ind2=" ">
+            <marc:subfield code="a">Collection comprises two letters written by Garrison. In the first, he writes to Dr. Lewis S. Pilcher about George Jackson Fisher as a pioneer in medical history. In the second, he responds to Professor Frederic Lee's inquiries after English and/or German translations of the Mount Ebers Papyrus.</marc:subfield>
+        </marc:datafield>
+        
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Garrison, Fielding H.</marc:subfield>
+            <marc:subfield code="q">(Fielding Hudson),</marc:subfield>
+            <marc:subfield code="d">1870-1935.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Lee, Frederic S.</marc:subfield>
+            <marc:subfield code="q">(Frederic Schiller),</marc:subfield>
+            <marc:subfield code="d">1859-1939.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Pilcher, Lewis Stephen,</marc:subfield>
+            <marc:subfield code="d">1845-1934.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">History of Medicine Collections (Duke University)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

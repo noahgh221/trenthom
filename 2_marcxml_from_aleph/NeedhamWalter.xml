@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01107npm a2200265Ka 4500</marc:leader>
+        <marc:controlfield tag="001">003815980</marc:controlfield>
+        <marc:controlfield tag="005">20100226095421.0</marc:controlfield>
+        <marc:controlfield tag="008">061212s1964    xx            000 0 eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">76950799</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDK</marc:subfield>
+            <marc:subfield code="c">NDK</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="h">lat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDNX</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Needham, Walter,</marc:subfield>
+            <marc:subfield code="d">1631?-1691?</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="240" ind1="1" ind2="0">
+            <marc:subfield code="a">Disquisitio anatomica de formato foetu.</marc:subfield>
+            <marc:subfield code="l">English</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Disquisitio anatomica de formato foetu (photocopy)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[S.l. :</marc:subfield>
+            <marc:subfield code="b">s.n.,</marc:subfield>
+            <marc:subfield code="c">1964]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">xiv, 169, [6] leaves ;</marc:subfield>
+            <marc:subfield code="c">28 cm. +</marc:subfield>
+            <marc:subfield code="e">xiv, 115 leaves</marc:subfield>
+        </marc:datafield>
+        
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Literal translation (without translation of title-page) by Anthony Gagliano ; date derived from information in correspondence dated April-June 1964 between E.C. Croft Long and Gagliano .</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Original typescript of a portion of the translation. Also, 10 leaves: a sample translation of the title page dedication, contents page for chapter 1, and 7 leaves of chapter 1.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="2">
+            <marc:subfield code="a">Fetus.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="2">
+            <marc:subfield code="a">Embryology.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gagliano, Anthony J.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Long, E. C. Croft.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">History of Medicine Collections (Duke University)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

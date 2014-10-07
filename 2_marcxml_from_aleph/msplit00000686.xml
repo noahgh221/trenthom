@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>01918cpcaa2200277Ia 4500</marc:leader>
+        <marc:controlfield tag="001">001694851</marc:controlfield>
+        <marc:controlfield tag="005">20130311150501.0</marc:controlfield>
+        <marc:controlfield tag="008">950313i19671980vp                  eng d</marc:controlfield>
+        <marc:datafield tag="024" ind1="8" ind2=" ">
+            <marc:subfield code="a">urodynamicssociety</marc:subfield>
+            <marc:subfield code="d">DUKEPLEAD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">32140731</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDK</marc:subfield>
+            <marc:subfield code="c">NDK</marc:subfield>
+            <marc:subfield code="d">OCLCQ</marc:subfield>
+            <marc:subfield code="d">NDD</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDDP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="2" ind2=" ">
+            <marc:subfield code="a">Urodynamics Society.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Urodynamics Society records,</marc:subfield>
+            <marc:subfield code="f">1967-1996 and undated.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1.5</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
+        </marc:datafield>
+       
+        <marc:datafield tag="545" ind1=" " ind2=" ">
+            <marc:subfield code="a">U.S. organization, now known as the Society of Urodynamics, Female Pelvic Medicine, and Urogenital Reconstruction (SUFU), founded in 1978, concerned with providing research and training in urology and urodynamics. Its founder was Saul Boyarsky, physician and faculty member at Duke University.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1="8" ind2=" ">
+            <marc:subfield code="a">Collection houses the records of the Urodynamics Society, now known as the Society of Urodynamics, Female Pelvic Medicine, and Urogenital Reconstruction (SUFU), whose first president and founder was Dr. Saul Boyarsky, physician and faculty member at Duke University, and donor of the collection. The bulk of the records chiefly consists of correspondence relating to the Society's activities and development chiefly during the 1980s. There are also several folders containing the Society's constitution and by-laws, written in 1978; printed articles and abstracts concerning urodynamics, Dr. Boyarski's business card, and other small items. Acquired as part of the History of Medicine Collections at Duke University.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="541" ind1=" " ind2=" ">
+            <marc:subfield code="c">Transfer</marc:subfield>
+            <marc:subfield code="a">.</marc:subfield>
+            <marc:subfield code="d">2011.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="555" ind1=" " ind2=" ">
+            <marc:subfield code="a">Inventory available in repository and on the Web.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Boyarsky, Saul.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="610" ind1="2" ind2="0">
+            <marc:subfield code="a">Urodynamics Society.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Medicine</marc:subfield>
+            <marc:subfield code="x">Societies, etc.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Urology</marc:subfield>
+            <marc:subfield code="x">History.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">History of Medicine Collections (Duke University)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="2">
+            <marc:subfield code="y">Collection guide</marc:subfield>
+            <marc:subfield code="u">http://library.duke.edu/rubenstein/findingaids/urodynamicssociety/</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

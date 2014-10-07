@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record>
+        <marc:leader>02956cpc a2200361Ka 4500</marc:leader>
+        <marc:controlfield tag="001">004184753</marc:controlfield>
+        <marc:controlfield tag="005">20090713142451.0</marc:controlfield>
+        <marc:controlfield tag="008">090629i18111880xx                  eng d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">418257988</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDK</marc:subfield>
+            <marc:subfield code="c">NDK</marc:subfield>
+            <marc:subfield code="d">NDK</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="049" ind1=" " ind2=" ">
+            <marc:subfield code="a">NDKM</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Admittance cards,</marc:subfield>
+            <marc:subfield code="f">1811-1880</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="c">1811-1880.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">0.5</marc:subfield>
+            <marc:subfield code="f">linear feet</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Title supplied by cataloger.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Admittance, matriculation, and &quot;Order of Lecture&quot; cards are from a number of medical students from 1811-1880 in the University of Pennsylvania, Jefferson Medical College, Long Island College Hospital (Brooklyn, N.Y.), Harvard University Medical School, Philadelphia School of Anatomy, New Hampshire Medical Institution, Berkshire Medical Institution, and St. Bartholomew's Hospital (London, England). They contain the autographs of the most eminent professors of the day: i.e., Samuel Gross, Franklin Bache, Benjamin Rush, Austin Flint, Samuel Jackson, S. Weir Mitchell, J. K. Mitchell, Charles D. and James A. Meigs, John Barclay Biddle, et al. The St. Bartholomew's Hospital card is signed by Ludford Harvey, John P. Vicent, and John Abernethy, the latter (1764-1831) being an eminent English surgeon and founder of the Medical School of St Bartholomew's. The &quot;Order of Lecture&quot; cards from Jefferson Medical College and the University of Pennsylvania list curricula, faculty and their residences, schedules of lectures and texts.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="520" ind1=" " ind2=" ">
+            <marc:subfield code="a">Admittance cards, 1850-1853, are for courses at the Jefferson Medical School in Philadelphia. They include two matriculation cards for William D. Watson of Chatham County, N. C., dated Nov., 1850, and Oct., 1852, and an examination card Oct., 1852-1853, which is signed by Dr. S. Weir Mitchell as professor of Anatomy, Surgery and Physiology. Dr. Watson returned to Chatham County after his graduation. His house was destroyed during the Civil War. The portion of his medical library saved and stored in a neighboring attic eventually was placed in the historical Collection of the library of the University of Pennsylvania Medical School.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="541" ind1=" " ind2=" ">
+            <marc:subfield code="a">Dr. Robert J. Wetmore, great grandson of Dr. Watson, donated the cards to the Duke Medical Center Library 17 December, 1962.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1="1" ind2="2">
+            <marc:subfield code="a">Education, Medical.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gross, Samuel D.</marc:subfield>
+            <marc:subfield code="q">(Samuel David),</marc:subfield>
+            <marc:subfield code="d">1805-1884.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bache, Franklin,</marc:subfield>
+            <marc:subfield code="d">1792-1864.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Rush, Benjamin,</marc:subfield>
+            <marc:subfield code="d">1746-1813.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Flint, Austin,</marc:subfield>
+            <marc:subfield code="d">1836-1915.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Jackson, Samuel.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mitchell, S. Weir</marc:subfield>
+            <marc:subfield code="q">(Silas Weir),</marc:subfield>
+            <marc:subfield code="d">1829-1914.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Mitchell, John Kearsley,</marc:subfield>
+            <marc:subfield code="d">1793-1858.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Meigs, Charles D.</marc:subfield>
+            <marc:subfield code="q">(Charles Delucena),</marc:subfield>
+            <marc:subfield code="d">1792-1869.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Meigs, James Aitken,</marc:subfield>
+            <marc:subfield code="d">1829-1879.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Biddle, John B.</marc:subfield>
+            <marc:subfield code="q">(John Barclay),</marc:subfield>
+            <marc:subfield code="d">1815-1879.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Harvey, Ludford.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vicent, John P.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Abernethy, John,</marc:subfield>
+            <marc:subfield code="d">1764-1831.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">History of Medicine Collections (Duke University)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
