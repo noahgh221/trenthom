@@ -10,21 +10,6 @@
                         <scenarioAssociation-array>
                             <scenarioAssociation>
                                 <field name="url">
-                                    <String>4_schema_eads/</String>
-                                </field>
-                                <field name="scenarioIds">
-                                    <list>
-                                        <String>trenthom_post_processor</String>
-                                    </list>
-                                </field>
-                                <field name="scenarioTypes">
-                                    <list>
-                                        <String>XSL</String>
-                                    </list>
-                                </field>
-                            </scenarioAssociation>
-                            <scenarioAssociation>
-                                <field name="url">
                                     <String>3_eads/</String>
                                 </field>
                                 <field name="scenarioIds">
@@ -45,6 +30,21 @@
                                 <field name="scenarioIds">
                                     <list>
                                         <String>DukeMARC2EAD-HOMproject-batch</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>4_schema_eads/</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>trenthom_post_processor</String>
                                     </list>
                                 </field>
                                 <field name="scenarioTypes">
@@ -425,7 +425,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>unittitle_extractor</String>
+                                    <String>trenthom_post_processor</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -443,7 +443,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl/unittitle_extractor.xsl</String>
+                                    <String>${pdu}/xsl/trenthom_post_processor.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -464,7 +464,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/collection_title_list.txt</File>
+                                    <File>${pd}/5_post_processed_eads/${cfne}</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>
@@ -508,7 +508,7 @@
                                     <null/>
                                 </field>
                                 <field name="name">
-                                    <String>trenthom_post_processor</String>
+                                    <String>unittitle_extractor</String>
                                 </field>
                                 <field name="baseURL">
                                     <String></String>
@@ -526,7 +526,7 @@
                                     <String></String>
                                 </field>
                                 <field name="inputXSLURL">
-                                    <String>${pdu}/xsl/trenthom_post_processor.xsl</String>
+                                    <String>${pdu}/xsl/unittitle_extractor.xsl</String>
                                 </field>
                                 <field name="inputXMLURL">
                                     <String>${currentFileURL}</String>
@@ -547,7 +547,7 @@
                                     <Boolean>false</Boolean>
                                 </field>
                                 <field name="outputFile">
-                                    <File>${pd}/5_post_processed_eads/${cfne}</File>
+                                    <File>${pd}/collection_title_list.txt</File>
                                 </field>
                                 <field name="openOtherLocationInBrowser">
                                     <Boolean>false</Boolean>

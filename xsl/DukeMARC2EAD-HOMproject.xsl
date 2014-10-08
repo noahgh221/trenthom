@@ -172,7 +172,7 @@
     <addressline>919-660-5822</addressline>
     <addressline>special-collections@duke.edu</addressline>
   </address>
-  <date normal="{$Year}" encodinganalog="date"><xsl:text>Copyright </xsl:text><xsl:value-of select="$Year"/></date>
+  <date normal="{$Year}" encodinganalog="date"><xsl:value-of select="$Year"/></date>
 </publicationstmt>
 
 <!-- Insert Aleph Number -->
@@ -295,7 +295,12 @@
 </langmaterial>        
 
 <langmaterial label="Language of Materials">Language: <xsl:value-of select="$Language"/></langmaterial>
-  
+ 
+<!-- Language as General note to force AT import - need to move to Language of Materials note using SQL after import -->
+<note label="Language of Materials">
+  <p>Language: <xsl:value-of select="$Language"/></p>
+</note>
+
 
 <!-- EXTENT -->
 <physdesc>
@@ -344,6 +349,10 @@
       <xsl:text> </xsl:text>
     </xsl:for-each>
   </abstract>
+
+
+
+
 </did>
         
 

@@ -29,7 +29,7 @@
             <date normal="2014"
                   encodinganalog="date"
                   era="ce"
-                  calendar="gregorian">Copyright 2014</date>
+                  calendar="gregorian">2014</date>
          </publicationstmt>
          <notestmt>
             <note>
@@ -64,6 +64,9 @@
             <language langcode="ita"/>
          </langmaterial>
          <langmaterial label="Language of Materials">Language: Italian</langmaterial>
+         <note label="Language of Materials">
+            <p>Language: Italian</p>
+         </note>
          <physdesc>
             <extent encodinganalog="300">28 items</extent>
          </physdesc>

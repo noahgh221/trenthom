@@ -15,7 +15,7 @@
                <addressline>919-660-5822</addressline>
                <addressline>special-collections@duke.edu</addressline>
             </address>
-            <date normal="2014" encodinganalog="date" era="ce" calendar="gregorian">Copyright 2014</date>
+            <date normal="2014" encodinganalog="date" era="ce" calendar="gregorian">2014</date>
          </publicationstmt>
          <notestmt>
             <note>
@@ -47,6 +47,9 @@
             <language langcode="ger"/>
          </langmaterial>
          <langmaterial label="Language of Materials">Language: German</langmaterial>
+         <note label="Language of Materials">
+            <p>Language: German</p>
+         </note>
          <physdesc>
             <extent encodinganalog="300">2 items</extent>
          </physdesc>

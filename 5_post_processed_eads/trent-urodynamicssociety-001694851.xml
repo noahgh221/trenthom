@@ -29,7 +29,7 @@
             <date normal="2014"
                   encodinganalog="date"
                   era="ce"
-                  calendar="gregorian">Copyright 2014</date>
+                  calendar="gregorian">2014</date>
          </publicationstmt>
          <notestmt>
             <note>
@@ -64,6 +64,9 @@
             <language langcode="eng"/>
          </langmaterial>
          <langmaterial label="Language of Materials">Language: English</langmaterial>
+         <note label="Language of Materials">
+            <p>Language: English</p>
+         </note>
          <physdesc>
             <extent encodinganalog="300">1.5 linear feet</extent>
          </physdesc>
@@ -107,7 +110,7 @@
          <p>Forms part of the History of Medicine Trent Manuscripts Collection.</p>
       </scopecontent>
       <controlaccess>
-         <subject source="lcsh" encodinganalog="650">Medicine -- Societies, etc.</subject>
+         <subject source="lcsh" encodinganalog="650">Medicine -- Societies, etc</subject>
          <subject source="lcsh" encodinganalog="650">Urology -- History</subject>
          <persname source="lcsh" encodinganalog="600">Boyarsky, Saul</persname>
          <corpname source="lcsh" encodinganalog="710">History of Medicine Collections (Duke University)</corpname>
