@@ -1,0 +1,1439 @@
+original_term	cleaned_term	term_type	eadid_term_source
+Biochemistry	new_term	subject	trent-abderhaldenemil
+Abderhalden, Emil, 1877-1950	new_term	persname	trent-abderhaldenemil
+History of Medicine Collections (Duke University)	new_term	corpname	trent-abderhaldenemil
+Physicians -- Correspondence	new_term	subject	trent-abercrombiejohn
+Abercrombie, John, 1780-1844	new_term	persname	trent-abercrombiejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-abercrombiejohn
+Acland, Henry W. (Henry Wentworth), 1815-1900	new_term	persname	trent-aclandhenryw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-aclandhenryw
+Materia Medica	new_term	subject	trent-adamos
+History of Medicine Collections (Duke University)	new_term	corpname	trent-adamos
+Adams, Abigail, 1744-1818	new_term	persname	trent-adamsabigail
+Coxe, John Redman, 1773-1864	new_term	persname	trent-adamsabigail
+Rush, Benjamin, 1746-1813	new_term	persname	trent-adamsabigail
+History of Medicine Collections (Duke University)	new_term	corpname	trent-adamsabigail
+Mollusca	new_term	subject	trent-adamscb
+Adams, C. B. (Charles Baker), 1814-1853	new_term	persname	trent-adamscb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-adamscb
+Panama	new_term	geogname	trent-adamscb
+South Africa	new_term	geogname	trent-adamscb
+Adams, John, 1735-1826	new_term	persname	trent-adamsjohn
+Monroe, James, 1758-1831	new_term	persname	trent-adamsjohn
+Waterhouse, Benjamin, 1754-1846	new_term	persname	trent-adamsjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-adamsjohn
+Education, Medical	new_term	subject	trent-admittancecards
+History of Medicine Collections (Duke University)	new_term	corpname	trent-admittancecards
+Fishes	new_term	subject	trent-agassizlouis
+Fossils	new_term	subject	trent-agassizlouis
+Education	new_term	subject	trent-agassizlouis
+Agassiz, Louis, 1807-1873	new_term	persname	trent-agassizlouis
+Kaup, J. J. (Johann Jakob), 1803-1873	new_term	persname	trent-agassizlouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-agassizlouis
+Agnew, D. Hayes (David Hayes), 1818-1892	new_term	persname	trent-agnewdhayes
+Barclay, Robert Gulzlaff, 1832-1876	new_term	persname	trent-agnewdhayes
+History of Medicine Collections (Duke University)	new_term	corpname	trent-agnewdhayes
+Aikin, John, 1747-1822	new_term	persname	trent-aikinjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-aikinjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-alardprosper
+Albin, Maurice S.	new_term	persname	trent-albinmaurices
+History of Medicine Collections (Duke University)	new_term	corpname	trent-albinmaurices
+Alexander, Stephen, 1806-1883	new_term	persname	trent-alexanderstephen
+Babbage, Charles, 1791-1871	new_term	persname	trent-alexanderstephen
+Bache, A. D. (Alexander Dallas), 1806-1867	new_term	persname	trent-alexanderstephen
+Barlow, Peter, 1776-1862	new_term	persname	trent-alexanderstephen
+Faraday, Michael, 1791-1867	new_term	persname	trent-alexanderstephen
+Henry, Joseph, 1797-1878	new_term	persname	trent-alexanderstephen
+Wheatstone, Charles, Sir, 1802-1875	new_term	persname	trent-alexanderstephen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-alexanderstephen
+Skin Diseases	new_term	subject	trent-alibertjeanlouismarie
+Alibert, Jean-Louis-Marie, 1768-1837	new_term	persname	trent-alibertjeanlouismarie
+History of Medicine Collections (Duke University)	new_term	corpname	trent-alibertjeanlouismarie
+Dyspepsia	new_term	subject	trent-andralg
+Andral, G. (Gabriel), 1797-1876	new_term	persname	trent-andralg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-andralg
+Anfinsen, Christian B. (Christian Boehmer), 1916-1995	new_term	persname	trent-anfinsenchristianb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-anfinsenchristianb
+Antisell, Thomas, 1817-1893	new_term	persname	trent-antisellthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-antisellthomas
+Fibroma	new_term	subject	trent-apostoligeorges
+Apostoli, Georges, 1847-1900	new_term	persname	trent-apostoligeorges
+History of Medicine Collections (Duke University)	new_term	corpname	trent-apostoligeorges
+Armour, Donald John, 1864-1933	new_term	persname	trent-armourdonaldjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-armourdonaldjohn
+Armstrong, John, 1709-1779	new_term	persname	trent-armstrongjohn
+Coutts, Thomas,Mrs.	new_term	persname	trent-armstrongjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-armstrongjohn
+Arnal, Jean Louis, 1806-1871	new_term	persname	trent-arnaljeanlouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-arnaljeanlouis
+Arsonval, Jacques Arsene d', 1851-1940	new_term	persname	trent-arsonvaljacquesarsened
+History of Medicine Collections (Duke University)	new_term	corpname	trent-arsonvaljacquesarsened
+Askew, Anthony, 1722-1774	new_term	persname	trent-askewanthony
+Bentley, Richard, 1662-1742	new_term	persname	trent-askewanthony
+Dawes, Richard, 1708-1766	new_term	persname	trent-askewanthony
+Mill, John, 1645-1707	new_term	persname	trent-askewanthony
+Reiske, Johann Jacob, 1716-1774	new_term	persname	trent-askewanthony
+History of Medicine Collections (Duke University)	new_term	corpname	trent-askewanthony
+Herculaneum (Extinct city)	new_term	geogname	trent-askewanthony
+Wolfenbuttel (Germany)	new_term	geogname	trent-askewanthony
+Atkins, Arthur F.	new_term	persname	trent-atkinsarthurf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-atkinsarthurf
+Austin, Benjamin W.	new_term	persname	trent-austinbenjaminw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-austinbenjaminw
+Babington, B. G. (Benjamin Guy), 1794-1866	new_term	persname	trent-babingtonbg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-babingtonbg
+Baccelli, Guido, 1832-1916	new_term	persname	trent-baccelliguido
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baccelliguido
+Bache, Franklin, 1792-1864	new_term	persname	trent-bachefranklin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bachefranklin
+Backus, Nathaniel.	new_term	persname	trent-backusnathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-backusnathaniel
+Education, Medical -- Germany	new_term	subject	trent-baginskya
+Baginsky, A. (Adolf), 1843-1918	new_term	persname	trent-baginskya
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baginskya
+Bailey, Jacob Whitman, 1811-1857	new_term	persname	trent-baileyjacobwhitman
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baileyjacobwhitman
+Mental Disorders	new_term	subject	trent-baillargerjulesgabrielfrancois
+Psychiatry	new_term	subject	trent-baillargerjulesgabrielfrancois
+Baillarger, Jules Gabriel Francois, 1809-1890	new_term	persname	trent-baillargerjulesgabrielfrancois
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baillargerjulesgabrielfrancois
+Baillie, Matthew, 1761-1823	new_term	persname	trent-bailliematthew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bailliematthew
+Baldwin, Thomas.	new_term	persname	trent-baldwinthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baldwinthomas
+Bardeleben, Adolf, 1819-1895	new_term	persname	trent-bardelebenadolf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bardelebenadolf
+Bard, Samuel, 1742-1821	new_term	persname	trent-bardsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bardsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bardsamuel
+Medical Society of the State of New York (1788-1794)	new_term	corpname	trent-bardsamuel
+Barker, Fordyce, 1819-1891	new_term	persname	trent-barkerfordyce
+Everett, Edward, 1794-1865	new_term	persname	trent-barkerfordyce
+History of Medicine Collections (Duke University)	new_term	corpname	trent-barkerfordyce
+Bowdoin College.	new_term	corpname	trent-barkerfordyce
+History of Medicine Collections (Duke University)	new_term	corpname	trent-barkerfordyce
+Yellow Fever -- New York (State) -- New York -- History	new_term	subject	trent-barneyjohnp
+Barney, John P.	new_term	persname	trent-barneyjohnp
+History of Medicine Collections (Duke University)	new_term	corpname	trent-barneyjohnp
+Bellevue Hospital.	new_term	corpname	trent-barneyjohnp
+History of Medicine Collections (Duke University)	new_term	corpname	trent-barneyjohnp
+Bartels, Paul, 1874-1914	new_term	persname	trent-bartelspaul
+Pagel, J. (Julius), 1851-1912	new_term	persname	trent-bartelspaul
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bartelspaul
+Bartlett, Elisha, 1804-1855	new_term	persname	trent-bartlettelisha
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bartlettelisha
+Bartlett, Josiah, 1759-1820	new_term	persname	trent-bartlettjosiah
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bartlettjosiah
+Vaccinia	new_term	subject	trent-bartlettlevi
+Vaccination -- History	new_term	subject	trent-bartlettlevi
+Bartlett, Levi, 1763-1828	new_term	persname	trent-bartlettlevi
+Bartlett, Josiah, 1768-1838	new_term	persname	trent-bartlettlevi
+Waterhouse, Benjamin, 1754-1846	new_term	persname	trent-bartlettlevi
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bartlettlevi
+Barton, J. Rhea (John Rhea), 1794-1871	new_term	persname	trent-bartonjrhea
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bartonjrhea
+Bassi, Agostino, 1773-1856	new_term	persname	trent-bassiagostino
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bassiagostino
+Bassini, Edoardo, 1844-1924	new_term	persname	trent-bassiniedoardo
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bassiniedoardo
+Baumes, J. B. T. (Jean Baptiste Timothee), 1756-1828	new_term	persname	trent-baumesjbt
+Bouillon-Lagrange, Edme Jean Baptiste, 1764-1844	new_term	persname	trent-baumesjbt
+Julia de Fontenelle, (Jean-Sebastien-Eugene), M. 1790-1842	new_term	persname	trent-baumesjbt
+History of Medicine Collections (Duke University)	new_term	corpname	trent-baumesjbt
+Beattie, William, 1793-1875	new_term	persname	trent-beattiewilliam
+Britton, John, 1771-1857	new_term	persname	trent-beattiewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-beattiewilliam
+Beaumont, William, 1785-1853	new_term	persname	trent-beaumontwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-beaumontwilliam
+Beck, Charles Frederick, 1806-	new_term	persname	trent-beckcharlesfrederick
+Bache, A. D. (Alexander Dallas), 1806-1867	new_term	persname	trent-beckcharlesfrederick
+Bache, Franklin, 1792-1864	new_term	persname	trent-beckcharlesfrederick
+Coxe, John Redman, 1773-1864	new_term	persname	trent-beckcharlesfrederick
+Dewees, William, 1768-1841	new_term	persname	trent-beckcharlesfrederick
+Dunglison, Robley, 1798-1869	new_term	persname	trent-beckcharlesfrederick
+Gibson, William, 1788-1868	new_term	persname	trent-beckcharlesfrederick
+Hare, Robert, 1781-1858	new_term	persname	trent-beckcharlesfrederick
+Horner, William E. (William Edmonds), 1793-1853	new_term	persname	trent-beckcharlesfrederick
+Jackson, Samuel, 1787-1872	new_term	persname	trent-beckcharlesfrederick
+James, Thomas C. (Thomas Chalkley), 1766-1835	new_term	persname	trent-beckcharlesfrederick
+Kane, John K. (John Kintzing), 1795-1858	new_term	persname	trent-beckcharlesfrederick
+Parrish, Joseph, 1779-1840	new_term	persname	trent-beckcharlesfrederick
+Physick, Philip Syng, 1768-1837	new_term	persname	trent-beckcharlesfrederick
+History of Medicine Collections (Duke University)	new_term	corpname	trent-beckcharlesfrederick
+Beck, Lewis C. (Lewis Caleb), 1798-1853	new_term	persname	trent-becklewisc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-becklewisc
+Beck, Theodric Romeyn, 1791-1855	new_term	persname	trent-becktheodricromeyn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-becktheodricromeyn
+Beclard, J. (Jules), 1817-1887	new_term	persname	trent-beclardj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-beclardj
+Behn, Wilhelm Friedrich Georg, 1808-1878	new_term	persname	trent-behnwilhelmfriedrichgeorg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-behnwilhelmfriedrichgeorg
+Behring, Emil von, 1854-1917	new_term	persname	trent-behringemilvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-behringemilvon
+Bell, Charles, Sir, 1774-1842	new_term	persname	trent-bellcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bellcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-belljacobus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-belljamesm
+Cholera	new_term	subject	trent-belljohn
+Bell, John, 1796-1872	new_term	persname	trent-belljohn
+Chelius, J. M. (Joseph Maximilian), 1794-1876	new_term	persname	trent-belljohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-belljohn
+Bell, John, 1763-1820	new_term	persname	trent-belljohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-belljohn
+Berard, Auguste, 1802-1846	new_term	persname	trent-berardauguste
+History of Medicine Collections (Duke University)	new_term	corpname	trent-berardauguste
+Berard, Pierre Honore, 1797-1858	new_term	persname	trent-berardpierrehonore
+History of Medicine Collections (Duke University)	new_term	corpname	trent-berardpierrehonore
+Mollusca	new_term	subject	trent-berghrudolph
+Bergh, Rudolph (Ludvig Sophus Rudolph), 1824-1909	new_term	persname	trent-berghrudolph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-berghrudolph
+Berg, Janus Anton Rahbek.	new_term	persname	trent-bergjanusantonrahbek
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bergjanusantonrahbek
+Bergmann, Ernst von, 1836-1907	new_term	persname	trent-bergmannernstvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bergmannernstvon
+Bernard, Claude, 1813-1878	new_term	persname	trent-bernardclaude
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bernardclaude
+Berthelot, M. (Marcellin), 1827-1907	new_term	persname	trent-berthelotm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-berthelotm
+Bert, Paul, 1833-1886	new_term	persname	trent-bertpaul
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bertpaul
+Military Medicine -- China	new_term	subject	trent-bethunenorman
+Bethune, Norman.	new_term	persname	trent-bethunenorman
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bethunenorman
+Quarantine -- United States -- History	new_term	subject	trent-biddlenicholas
+Biddle, Nicholas, 1786-1844	new_term	persname	trent-biddlenicholas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-biddlenicholas
+Bigelow, Henry Jacob, 1818-1890	new_term	persname	trent-bigelowhenryjacob
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bigelowhenryjacob
+Bigelow, Jacob, 1786-1879	new_term	persname	trent-bigelowjacob
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bigelowjacob
+Billings, John S. (John Shaw), 1838-1913	new_term	persname	trent-billingsjohns
+History of Medicine Collections (Duke University)	new_term	corpname	trent-billingsjohns
+Bios, J. B.	new_term	persname	trent-biosjb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-biosjb
+Bischoff, Th. Ludw. Wilh. (Theodor Ludwig Wilhelm), 1807-1882	new_term	persname	trent-bischoffthludwwilh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bischoffthludwwilh
+Bjornsson, Gumund.	new_term	persname	trent-bjornssongumund
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bjornssongumund
+Blackwell, Elizabeth, 1821-1910	new_term	persname	trent-blackwellelizabeth
+Prince, William Robert, 1795-1869	new_term	persname	trent-blackwellelizabeth
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blackwellelizabeth
+Blainville, Henri Marie Ducrotay de, 1777-1850	new_term	persname	trent-blainvillehenrimarieducrotayde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blainvillehenrimarieducrotayde
+Mental Disorders	new_term	subject	trent-blancheantoineemile
+Blanche, Antoine Emile, 1828-	new_term	persname	trent-blancheantoineemile
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blancheantoineemile
+Blanche, Esprit Sylvestre, 1796-1840	new_term	persname	trent-blancheespritsylvestre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blancheespritsylvestre
+Bland-Sutton, John, Sir, 1855-1936	new_term	persname	trent-blandsuttonjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blandsuttonjohn
+Blizard, William, Sir, 1743-1835	new_term	persname	trent-blizardwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blizardwilliam
+Blue, Rupert Lee, 1868-1948	new_term	persname	trent-bluerupertlee
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bluerupertlee
+Blumenthal, Cellier de.	new_term	persname	trent-blumenthalcellierde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blumenthalcellierde
+Blundell, Dr., 1790-1878	new_term	persname	trent-blundell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-blundell
+Bond, Thomas, 1712-1784	new_term	persname	trent-bondthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bondthomas
+Medicine -- Europe -- History -- 19th century	new_term	subject	trent-bostockjohn
+Medicine -- Great Britain -- History -- 19th century	new_term	subject	trent-bostockjohn
+Physicians -- Correspondence	new_term	subject	trent-bostockjohn
+Bostock, John, 1773-1846	new_term	persname	trent-bostockjohn
+Marcet, Alexander, 1770-1822	new_term	persname	trent-bostockjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bostockjohn
+History	new_term	genreform	trent-bostockjohn
+Records and correspondence	new_term	genreform	trent-bostockjohn
+Bouillaud, J. (Jean), 1796-1881	new_term	persname	trent-bouillaudj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bouillaudj
+Bowditch, Henry I. (Henry Ingersoll), 1808-1892	new_term	persname	trent-bowditchhenryi
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bowditchhenryi
+Bowen, Ephraim, 1710-1808	new_term	persname	trent-bowenephraim
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bowenephraim
+Bradfield, H. J. S. (Henry Joseph Steele), 1805-1852	new_term	persname	trent-bradfieldhjs
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bradfieldhjs
+Bradford, William, 1729-1808	new_term	persname	trent-bradfordwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bradfordwilliam
+Braun, Alexander, 1805-1877	new_term	persname	trent-braunalexander
+History of Medicine Collections (Duke University)	new_term	corpname	trent-braunalexander
+Brayton, Charles E.	new_term	persname	trent-braytoncharlese
+History of Medicine Collections (Duke University)	new_term	corpname	trent-braytoncharlese
+Breschet, G. (Gilbert), 1784-1845	new_term	persname	trent-breschetg
+Cuvier, Georges, baron, 1769-1832	new_term	persname	trent-breschetg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-breschetg
+Brewster, David, 1781-1868	new_term	persname	trent-brewsterdavid
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brewsterdavid
+Brigham, Amariah, 1798-1849	new_term	persname	trent-brighamamariah
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brighamamariah
+Bright, Richard, 1789-1858	new_term	persname	trent-brightrichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brightrichard
+Broadbent, W. H. (William Henry), Sir, 1835-1907	new_term	persname	trent-broadbentwh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-broadbentwh
+Broca, Paul, 1824-1880	new_term	persname	trent-brocapaul
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brocapaul
+Brodie, Benjamin, Sir, 1783-1862	new_term	persname	trent-brodiebenjamin
+Philip, Alexander Philips Wilson, 1770-1847	new_term	persname	trent-brodiebenjamin
+Wollaston, William Hyde, 1766-1828	new_term	persname	trent-brodiebenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brodiebenjamin
+Brooks, John, 1752-1825	new_term	persname	trent-brooksjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brooksjohn
+Brouardel, P. (Paul), 1837-1906	new_term	persname	trent-brouardelp
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brouardelp
+Broussais, Casimir Anne Marie, 1803-1847	new_term	persname	trent-broussaiscasimirannemarie
+History of Medicine Collections (Duke University)	new_term	corpname	trent-broussaiscasimirannemarie
+Broussais, F. J. V. (Francois Joseph Victor), 1772-1838	new_term	persname	trent-broussaisfjv
+History of Medicine Collections (Duke University)	new_term	corpname	trent-broussaisfjv
+Brown, Buckminster, 1819-1891	new_term	persname	trent-brownbuckminster
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brownbuckminster
+Brown, George, 1755-1822	new_term	persname	trent-browngeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-browngeorge
+Brown, Gustavus, 1744-	new_term	persname	trent-browngustavus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-browngustavus
+Brown, Horace Manchester, 1857-1929	new_term	persname	trent-brownhoracemanchester
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brownhoracemanchester
+Brown, John, 1810-1882	new_term	persname	trent-brownjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brownjohn
+Brown, Robert, 1773-1858	new_term	persname	trent-brownrobert
+Abel, Clarke, 1780-1826	new_term	persname	trent-brownrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brownrobert
+Brown-Sequard, Charles-Edouard, 1817-1894	new_term	persname	trent-brownsequardcharlesedouard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-brownsequardcharlesedouard
+Buchanan, George, Sir, 1831-1895	new_term	persname	trent-buchanangeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-buchanangeorge
+Buchan, William, 1729-1805	new_term	persname	trent-buchanwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-buchanwilliam
+Buchez, Philippe-Joseph-Benjamin, 1796-1865	new_term	persname	trent-buchezphilippejosephbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-buchezphilippejosephbenjamin
+Bull, William T. (William Tillinghast), 1849-1909	new_term	persname	trent-bullwilliamt
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bullwilliamt
+Bumgarner, John R.(John Reed)	new_term	persname	trent-bumgarnerjohnr
+Davison, Wilburt Cornell, 1892-1972	new_term	persname	trent-bumgarnerjohnr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-bumgarnerjohnr
+Burnett, George, 1776?-1811	new_term	persname	trent-burnettgeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-burnettgeorge
+Burnham, Walter, 1808-1883	new_term	persname	trent-burnhamwalter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-burnhamwalter
+Burr, Aaron, 1756-1836	new_term	persname	trent-burraaron
+Rush, Benjamin, 1746-1813	new_term	persname	trent-burraaron
+History of Medicine Collections (Duke University)	new_term	corpname	trent-burraaron
+Electroencephalography	new_term	subject	trent-busseewaldw
+Kornmuller, Alois Eduard, 1905 -	new_term	persname	trent-busseewaldw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-busseewaldw
+Cabanis, P. J. G. (Pierre Jean Georges), 1757-1808	new_term	persname	trent-cabanispjg
+Maine de Biran, Pierre, 1766-1824	new_term	persname	trent-cabanispjg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cabanispjg
+Cabell, J. L. (James Lawrence), 1813-1889	new_term	persname	trent-cabelljl
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cabelljl
+Cadell, Thomas, 1773-1836	new_term	persname	trent-cadellthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cadellthomas
+Phrenology	new_term	subject	trent-caldwellcharles
+Caldwell, Charles, 1772-1853	new_term	persname	trent-caldwellcharles
+Caldwell, Charles, 1772-1853	new_term	persname	trent-caldwellcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-caldwellcharles
+Campbell, Alexander, 1779-1857	new_term	persname	trent-campbellalexander
+History of Medicine Collections (Duke University)	new_term	corpname	trent-campbellalexander
+Fossils	new_term	subject	trent-camperpetrus
+Camper, Petrus, 1722-1789	new_term	persname	trent-camperpetrus
+Buffon, Georges Louis Leclerc, comte de, 1707-1788	new_term	persname	trent-camperpetrus
+Goethe, Johann Wolfgang von, 1749-1832	new_term	persname	trent-camperpetrus
+Merck, Johann Heinrich, 1741-1791	new_term	persname	trent-camperpetrus
+Soemmerring, Samuel Thomas von, 1755-1830	new_term	persname	trent-camperpetrus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-camperpetrus
+Cappel, Wilhelm Friedrich, 1734-1800	new_term	persname	trent-cappelwilhelmfriedrich
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cappelwilhelmfriedrich
+Carlyle, John Aitken, 1801-1879	new_term	persname	trent-carlylejohnaitken
+History of Medicine Collections (Duke University)	new_term	corpname	trent-carlylejohnaitken
+Carnochan, J. M. (John Murray), 1817-1887	new_term	persname	trent-carnochanjm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-carnochanjm
+Carro, Joannes de, 1770-1857	new_term	persname	trent-carrojoannesde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-carrojoannesde
+Carus, Carl Gustav, 1789-1869	new_term	persname	trent-caruscarlgustav
+History of Medicine Collections (Duke University)	new_term	corpname	trent-caruscarlgustav
+Castellani, Aldo, 1875-1971	new_term	persname	trent-castellanialdo
+Smith, David T. (David Tillerson), 1898-	new_term	persname	trent-castellanialdo
+History of Medicine Collections (Duke University)	new_term	corpname	trent-castellanialdo
+Castiglioni, Arturo, 1874-1953	new_term	persname	trent-castiglioniarturo
+Trent, Josiah C. (Josiah Charles), 1914-1948	new_term	persname	trent-castiglioniarturo
+History of Medicine Collections (Duke University)	new_term	corpname	trent-castiglioniarturo
+Chancellor, William, -1762	new_term	persname	trent-chancellorwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-chancellorwilliam
+Chantemesse, Andre, 1851-1919	new_term	persname	trent-chantemesseandre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-chantemesseandre
+Chapman, Nathaniel, 1780-1853	new_term	persname	trent-chapmannathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-chapmannathaniel
+Chauncy, Charles.	new_term	persname	trent-chauncycharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-chauncycharles
+Chelius, J. M. (Joseph Maximilian), 1794-1876	new_term	persname	trent-cheliusjm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cheliusjm
+Child, Theodore, 1846-1892	new_term	persname	trent-childtheodore
+Duke University. Medical Center. Library. Trent Collection.	new_term	corpname	trent-childtheodore
+History of Medicine Collections (Duke University)	new_term	corpname	trent-childtheodore
+Chomel, A. F. (Auguste Francois), 1788-1858	new_term	persname	trent-chomelaf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-chomelaf
+Choulant, Ludwig, 1791-1861	new_term	persname	trent-choulantludwig
+History of Medicine Collections (Duke University)	new_term	corpname	trent-choulantludwig
+Christie, John.	new_term	persname	trent-christiejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-christiejohn
+Christie, Samuel A.	new_term	persname	trent-christiesamuela
+Garfield, James A. (James Abram), 1831-1881	new_term	persname	trent-christiesamuela
+History of Medicine Collections (Duke University)	new_term	corpname	trent-christiesamuela
+Christison, Robert, Sir, 1797-1882	new_term	persname	trent-christisonrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-christisonrobert
+Church, William Selby, 1837-1928	new_term	persname	trent-churchwilliamselby
+History of Medicine Collections (Duke University)	new_term	corpname	trent-churchwilliamselby
+Clark, Andrew, Sir, bart., 1826-1893	new_term	persname	trent-clarkandrew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-clarkandrew
+Clarke, Arthur, Sir, 1778-1857	new_term	persname	trent-clarkearthur
+History of Medicine Collections (Duke University)	new_term	corpname	trent-clarkearthur
+History of Medicine Collections (Duke University)	new_term	corpname	trent-clarkecharlesmansfield
+Clark, James, Sir, 1788-1870	new_term	persname	trent-clarkjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-clarkjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cleavelandparker
+History of Medicine Collections (Duke University)	new_term	corpname	trent-clinehenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cloquetjules
+Ellis, Benjamin, 1798-1831	new_term	persname	trent-coatesbenjaminhornor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coatesbenjaminhornor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coatesreynell
+Warren, John, 1753-1815	new_term	persname	trent-cochranjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cochranjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coffinnathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cogswellmasonfitch
+Franklin, Benjamin, 1706-1790	new_term	persname	trent-coldencadwallader
+Kalm, Per, 1716-1779	new_term	persname	trent-coldencadwallader
+Linne, Carl von, 1707-1778	new_term	persname	trent-coldencadwallader
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coldencadwallader
+Collegium Medico-Chirurgicum (Berlin, Germany)	new_term	corpname	trent-collegiummedicochirurgicumberlingermany
+History of Medicine Collections (Duke University)	new_term	corpname	trent-collegiummedicochirurgicumberlingermany
+Phrenology	new_term	subject	trent-combegeorge
+Spurzheim, J. G. (Johann Gaspar), 1776-1832	new_term	persname	trent-combegeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-combegeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-condictlewis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-condictlewis
+United States. President (1829-1837 : Jackson)	new_term	corpname	trent-condictlewis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coneebenezer
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cookedmunda
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coolidgecalvin
+Halford, Henry, Sir, bart., 1766-1844	new_term	persname	trent-cooperastley
+Ingles, John, 1766-1836	new_term	persname	trent-cooperastley
+Kidd, John, 1775-1851	new_term	persname	trent-cooperastley
+Lawrence, William, Sir, 1783-1867	new_term	persname	trent-cooperastley
+Lever, John Charles Weaver, 1811-1858	new_term	persname	trent-cooperastley
+Marcet, Alexander, 1770-1822	new_term	persname	trent-cooperastley
+Monro, Alexander, 1773-1859	new_term	persname	trent-cooperastley
+Travers, Benjamin, 1783-1858	new_term	persname	trent-cooperastley
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cooperastley
+Military Medicine	new_term	subject	trent-costejeanfrancois
+History of Medicine Collections (Duke University)	new_term	corpname	trent-costejeanfrancois
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cotterilljosephmontagu
+History of Medicine Collections (Duke University)	new_term	corpname	trent-couchjohnw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cowlesedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-coxfa
+History of Medicine Collections (Duke University)	new_term	corpname	trent-craigarchibald
+History of Medicine Collections (Duke University)	new_term	corpname	trent-craikjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-crammerwilliam
+Brown, Lawrason, 1871-1937	new_term	persname	trent-crilegeorgewashington
+Adirondack Cottage Sanitarium (Saranac Lake, N.Y.)	new_term	corpname	trent-crilegeorgewashington
+History of Medicine Collections (Duke University)	new_term	corpname	trent-crilegeorgewashington
+History of Medicine Collections (Duke University)	new_term	corpname	trent-crosbydixi
+Cushing, Harvey, 1869-1939	new_term	persname	trent-crummerleroy
+Spielmann, M. H. (Marion Harry), 1858-1948	new_term	persname	trent-crummerleroy
+Vesalius, Andreas, 1514-1564	new_term	persname	trent-crummerleroy
+History of Medicine Collections (Duke University)	new_term	corpname	trent-crummerleroy
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cruseronorcarveron
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cruveilhierj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cullenwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-curtisalva
+History of Medicine Collections (Duke University)	new_term	corpname	trent-curtishholbrook
+History of Medicine Collections (Duke University)	new_term	corpname	trent-curtisjohnharrison
+History of Medicine Collections (Duke University)	new_term	corpname	trent-curtisjosiah
+Cutbush, James, 1788-1823	new_term	persname	trent-cutbushedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-cutbushedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dallingerwh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dannejacques
+Jenner, Edward, 1749-1823	new_term	persname	trent-darwincharles
+Rolleston, George, 1829-1881	new_term	persname	trent-darwincharles
+Wallace, Alfred Russel, 1823-1913	new_term	persname	trent-darwincharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-darwincharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-darwinerasmus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-darwinfrancissacheverell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-davidsonjames
+Obstetrics	new_term	subject	trent-daviscarlhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-daviscarlhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-davisricharda
+History of Medicine Collections (Duke University)	new_term	corpname	trent-davyhumphry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dawkinswilliamboyd
+Torrey, John, 1796-1873	new_term	persname	trent-dawsonjohnwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dawsonjohnwilliam
+Bouchard, Ch. (Charles), 1837-1915	new_term	persname	trent-dechambreamedee
+Brouardel, P. (Paul), 1837-1906	new_term	persname	trent-dechambreamedee
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dechambreamedee
+Confidentiality	new_term	subject	trent-deferej
+Ethics, Medical	new_term	subject	trent-deferej
+Insurance, Health	new_term	subject	trent-deferej
+History of Medicine Collections (Duke University)	new_term	corpname	trent-deferej
+History of Medicine Collections (Duke University)	new_term	corpname	trent-delafieldedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-demarquayjn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-demoursantoinepierre
+Halley, Edmund, 1656-1742	new_term	persname	trent-derhamw
+Hooke, Robert, 1635-1703	new_term	persname	trent-derhamw
+Sloane, Hans, Sir, 1660-1753	new_term	persname	trent-derhamw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-derhamw
+Obstetrics	new_term	subject	trent-desaultpj
+Symphysiotomy	new_term	subject	trent-desaultpj
+Cesarean Section	new_term	subject	trent-desaultpj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-desaultpj
+Yellow Fever	new_term	subject	trent-devezejean
+History of Medicine Collections (Duke University)	new_term	corpname	trent-devezejean
+Dickens, Catherine, 1815-1879	new_term	persname	trent-dickenscharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dickenscharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dickreadgrantly
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dieffenbachjohannfriedrich
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dieulafoygeorges
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dixdorothealynde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-doanegeorgeb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dodgejamesr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-domagkgerhard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-doremusrobertogden
+History of Medicine Collections (Duke University)	new_term	corpname	trent-downmanhugh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-drakebenjamin
+Smith, B. B. (Benjamin Bosworth), 1794-1884	new_term	persname	trent-drakedaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-drakedaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-draperjohnwilliam
+Sanson, Alphonse, 1795-1873	new_term	persname	trent-dreyslaure
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dreyslaure
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duboisa
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duboisantoine
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dubosrenej
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duchennegb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dudleybenjaminw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dujardinbeaumetz
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dumerilaugustehenriandre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duncanandrew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duncang
+History of Medicine Collections (Duke University)	new_term	corpname	trent-duncanjamesmathews
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dunglisonrobley
+Marx, Edmond, 1797-1865	new_term	persname	trent-dupuytrenguillaume
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dupuytrenguillaume
+History of Medicine Collections (Duke University)	new_term	corpname	trent-durantedward
+Becquerel, (Antoine Cesar), M. 1788-1878	new_term	persname	trent-dutrochethenri
+Geoffroy Saint-Hilaire, Isidore, 1805-1861	new_term	persname	trent-dutrochethenri
+History of Medicine Collections (Duke University)	new_term	corpname	trent-dutrochethenri
+Agassiz, Louis, 1807-1873	new_term	persname	trent-earlepliny
+Gallaudet, T. H. (Thomas Hopkins), 1787-1851	new_term	persname	trent-earlepliny
+History of Medicine Collections (Duke University)	new_term	corpname	trent-earlepliny
+Jenner, Edward, 1749-1823	new_term	persname	trent-eastlakecharleslock
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eastlakecharleslock
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eatonamos
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eberlejohn
+Vaccination	new_term	subject	trent-edwardaugustus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-edwardaugustus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ehrmannjohannchristian
+Goldstein, Hyman, 1909-	new_term	persname	trent-einhornmax
+History of Medicine Collections (Duke University)	new_term	corpname	trent-einhornmax
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eiselsberganton
+Morris, Robert, 1734-1806	new_term	persname	trent-elwynalfredlangdon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-elwynalfredlangdon
+Carey, Mathew, 1760-1839	new_term	persname	trent-emersong
+Girard, Stephen, 1750-1831	new_term	persname	trent-emersong
+Hopkinson, Joseph, 1770-1842	new_term	persname	trent-emersong
+Morton, Samuel George, 1799-1851	new_term	persname	trent-emersong
+Physick, Philip Syng, 1768-1837	new_term	persname	trent-emersong
+Rush, Benjamin, 1746-1813	new_term	persname	trent-emersong
+History of Medicine Collections (Duke University)	new_term	corpname	trent-emersong
+History of Medicine Collections (Duke University)	new_term	corpname	trent-emmetrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-emmetthomasaddis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-engelmanngeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-esquiroletienne
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eustachibartolomeo
+History of Medicine Collections (Duke University)	new_term	corpname	trent-eustiswilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-evepaulf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ewartjc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-faurejl
+Fayrer, Joseph, Sir, 1824-1907	new_term	persname	trent-fayrerjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fayrerjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fechnergustavtheodor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fereollouisfelixhenrisecond
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fergusonwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fergussonwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ferrierdavid
+Pinel, Philippe, 1745-1826	new_term	persname	trent-ferrusgma
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ferrusgma
+Burr, Aaron, 1756-1836	new_term	persname	trent-finleyjamesb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-finleyjamesb
+Correspondence as Topic	new_term	subject	trent-finsennielsr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-finsennielsr
+Parry, William Edward, Sir, 1790-1855	new_term	persname	trent-fisheralexander
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fisheralexander
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fishhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fiverokepeter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-flintaustin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-flourensp
+History of Medicine Collections (Duke University)	new_term	corpname	trent-footjesse
+Negroid Race	new_term	subject	trent-forwoodwstump
+African Americans -- United States -- History	new_term	subject	trent-forwoodwstump
+History of Medicine Collections (Duke University)	new_term	corpname	trent-forwoodwstump
+United States -- History -- Civil War, 1861-1865	new_term	geogname	trent-forwoodwstump
+History	new_term	genreform	trent-forwoodwstump
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fothergilljohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-foucaultleon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fourierjeanbaptistejoseph
+Phrenology -- Case Reports	new_term	subject	trent-fowlerln
+Phrenology -- Manuscripts	new_term	subject	trent-fowlerln
+Sawyer, Emily	new_term	persname	trent-fowlerln
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fowlerln
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fraenkelludwig
+History of Medicine Collections (Duke University)	new_term	corpname	trent-francisjohnw
+Franklin, William, 1731-1813	new_term	persname	trent-franklinbenjamin
+Potts, Jonathan, 1745-1781	new_term	persname	trent-franklinbenjamin
+Rush, Benjamin, 1746-1813	new_term	persname	trent-franklinbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-franklinbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-freelandjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-frerichsfriedrichtheodor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-fryelizabethgurney
+Military Medicine	new_term	subject	trent-gagehomer
+Pleadwell, Frank Lester, 1872-1957	new_term	persname	trent-gagehomer
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gagehomer
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gannettcaleb
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gardinersilvester
+Bryant, William Cullen, 1794-1878	new_term	persname	trent-garretsonjamesedmund
+History of Medicine Collections (Duke University)	new_term	corpname	trent-garretsonjamesedmund
+Garrison, Fielding H. (Fielding Hudson), 1870-1935	new_term	persname	trent-garrisonfieldingh
+Lee, Frederic S. (Frederic Schiller), 1859-1939	new_term	persname	trent-garrisonfieldingh
+Pilcher, Lewis Stephen, 1845-1934	new_term	persname	trent-garrisonfieldingh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-garrisonfieldingh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gerbier
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gibbesrobertw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gibsonwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gilbertdavid
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gilbertludwigwilhelm
+Bookplates as Topic	new_term	subject	trent-ginsberglouis
+Gingsberg, Louis 1895-1976	new_term	persname	trent-ginsberglouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ginsberglouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-girardj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-giraudycharlesfrancoiss
+History of Medicine Collections (Duke University)	new_term	corpname	trent-glentworththomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goiffonjeanbaptiste
+Leprosy	new_term	subject	trent-goodhuees
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goodhuees
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goodjohnmason
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goodsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goodsonjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gosselinathanaseleon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-goudareaujmc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gouldaugustusa
+History of Medicine Collections (Duke University)	new_term	corpname	trent-greelyaw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-greensamuela
+Ventilation	new_term	subject	trent-grenfellwilfredthomason
+Lee, Frederic S. (Frederic Schiller), 1859-	new_term	persname	trent-grenfellwilfredthomason
+History of Medicine Collections (Duke University)	new_term	corpname	trent-grenfellwilfredthomason
+History of Medicine Collections (Duke University)	new_term	corpname	trent-griggslee
+History of Medicine Collections (Duke University)	new_term	corpname	trent-grisolleaugustin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-guepinangemariefrancois
+Davy, John, 1790-1868	new_term	persname	trent-gullivergeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gullivergeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gullwilliamwithey
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gullyjamesmanby
+Withering, William, 1741-1799	new_term	persname	trent-gunnjamesandrew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-gunnjamesandrew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-guthriegj
+Mercury	new_term	subject	trent-hackettceciljohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hackettceciljohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hackettcw
+Homeopathy	new_term	subject	trent-hahnemannsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hahnemannsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-halerichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-halfordhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-halleralbrechtvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hallidayandrew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-halljames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-halllarryg
+Mitchell, S. Weir (Silas Weir), 1829-1914	new_term	persname	trent-hammondwilliama
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hammondwilliama
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hareldutancrelaugustin
+Waln, Robert, 1794-1825	new_term	persname	trent-harerobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harerobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harleyjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harrellgeorget
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harrisgeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harristhaddeusmason
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harristhaddeuswilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harristhomas
+Hamilton, Alexander, 1712-1756	new_term	persname	trent-hartalbertbushnell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hartalbertbushnell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harternestabraham
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hartshornedavid
+History of Medicine Collections (Duke University)	new_term	corpname	trent-harveywilliam
+Markland, Jeremiah, 1693-1776	new_term	persname	trent-heberdenwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-heberdenwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-helmholtzhermannvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-henrywilliam
+Buckland, William, 1784-1856	new_term	persname	trent-henrywilliam
+Phillips, William, 1775-1828	new_term	persname	trent-henrywilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-henrywilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-henslowjs
+Reeve, Henry, 1813-1895	new_term	persname	trent-herbertofleasidneyherbert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-herbertofleasidneyherbert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-herrgeorges
+History of Medicine Collections (Duke University)	new_term	corpname	trent-herseyezekiel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-heurteloupnicolas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hibbertsamuel
+Vaccination -- History	new_term	subject	trent-hicksh
+Jenner, Edward, 1749-1823	new_term	persname	trent-hicksh
+Lettsom, John Coakley, 1744-1815	new_term	persname	trent-hicksh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hicksh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hincksthomasshawkesford
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hitchcockedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hodgehughl
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hodgkinthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hollandhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-holmesoliverwendell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-holyokeedwardaugustus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-homeeverard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hornerkatez
+Physick, Philip Syng, 1768-1837	new_term	persname	trent-hornerwilliame
+Wistar, Caspar, 1761-1818	new_term	persname	trent-hornerwilliame
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hornerwilliame
+History of Medicine Collections (Duke University)	new_term	corpname	trent-horsleyvictor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-horsleywilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hosackdavid
+History of Medicine Collections (Duke University)	new_term	corpname	trent-houghjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-howesg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-huchardh
+Syphilis	new_term	subject	trent-hudsonellisherndon
+Mercury	new_term	subject	trent-hudsonellisherndon
+Goldwater, Leonard J. (Leonard John), 1903-	new_term	persname	trent-hudsonellisherndon
+Hudson, Ellis Herndon, 1890-	new_term	persname	trent-hudsonellisherndon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hudsonellisherndon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hughesthomas
+General stores -- Economic aspects	new_term	subject	trent-hughesthomas
+Drugstores	new_term	subject	trent-hughesthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hughesthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-humboldtalexandervon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-humphreyasahel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hunterjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-huntharriotkesia
+History of Medicine Collections (Duke University)	new_term	corpname	trent-huxleythomashenry
+Crittenden, John J. (John Jordan), 1787-1863	new_term	persname	trent-hydewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hydewilliam
+United States -- History -- Civil War, 1861-1865	new_term	geogname	trent-hydewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-hydewilliam
+Mercer, Hugh, ca. 1725-1777	new_term	persname	trent-innesjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-innesjames
+Bigelow, Henry Jacob, 1818-1890	new_term	persname	trent-jacksoncharlest
+Bowditch, N. I. (Nathaniel Ingersoll), 1805-1861	new_term	persname	trent-jacksoncharlest
+Morton, W. T. G. (William Thomas Green), 1819-1868	new_term	persname	trent-jacksoncharlest
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jacksoncharlest
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jacksonhall
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jacksonjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jacobimaryputnam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jamesonrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jayjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jeffersongeoffrey
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jeffersonthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jeffriesjohn
+Vaccination	new_term	subject	trent-jennerhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jennerhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jennerwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jennisontimothylindall
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jexblakesophia
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jobertantoinejoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jonesbence
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jonesjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-jussieuantoinelaurentde
+Grinnell, Henry, 1799-1874	new_term	persname	trent-kaneelishakent
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kaneelishakent
+Yellow Fever	new_term	subject	trent-keatethomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-keatethomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-keenwilliamw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kellerjohanchristopherhenrikrummelhoff
+Osler, William, Sir, 1849-1919	new_term	persname	trent-kellyhowarda
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kellyhowarda
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kernerjustinusandreaschristian
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kettilbyk
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kirschnermartin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kissamricardussharpe
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kitchinerwilliam
+Longevity in art	new_term	subject	trent-kleefhermanusvan
+Old age	new_term	subject	trent-kleefhermanusvan
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kleefhermanusvan
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kneelandsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-knightsofmalta
+Knights of Malta -- History	new_term	corpname	trent-knightsofmalta
+Malta -- History	new_term	geogname	trent-knightsofmalta
+Parchment	new_term	genreform	trent-knightsofmalta
+History of Medicine Collections (Duke University)	new_term	corpname	trent-koreffjohannferdinand
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kuhnholtzh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kussmauladolf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-kuttnerhermann
+History of Medicine Collections (Duke University)	new_term	corpname	trent-laennecrth
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lallementamedee
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lamarcke
+Military Medicine -- 20th cent	new_term	subject	trent-lambertmaurice
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lambertmaurice
+History of Medicine Collections (Duke University)	new_term	corpname	trent-landner
+History of Medicine Collections (Duke University)	new_term	corpname	trent-langenbeckconradjohannmartin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lariveaugustede
+History of Medicine Collections (Duke University)	new_term	corpname	trent-larreyfelixhippolyte
+History of Medicine Collections (Duke University)	new_term	corpname	trent-laseguecharles
+Rush, Benjamin, 1746-1813	new_term	persname	trent-latanejohnholladay
+History of Medicine Collections (Duke University)	new_term	corpname	trent-latanejohnholladay
+History of Medicine Collections (Duke University)	new_term	corpname	trent-latouche
+French poetry -- 18th century	new_term	subject	trent-lattaignantgabrielcharlesde
+Physicians -- France -- 18th century	new_term	subject	trent-lattaignantgabrielcharlesde
+Tronchin, Theodore, 1709-1781	new_term	persname	trent-lattaignantgabrielcharlesde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lattaignantgabrielcharlesde
+History of Medicine Collections (Duke University)	new_term	corpname	trent-laudun
+Lichtenberg, Georg Christoph, 1742-1799	new_term	persname	trent-lavaterjohanncaspar
+Schweighauser, Jean Geoffrey, 1776-1844	new_term	persname	trent-lavaterjohanncaspar
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lavaterjohanncaspar
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lavoisierantoinelaurent
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lawrenceeffingham
+Koecker, Leonard, 1785-1850	new_term	persname	trent-lawrencewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lawrencewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lawyeraj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lazermejacques
+History of Medicine Collections (Duke University)	new_term	corpname	trent-leblanca
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ledererl
+Quarantine	new_term	subject	trent-leehenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-leehenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lefortleon
+McKean, Thomas, 1734-1817	new_term	persname	trent-leibmichael
+Muhlenberg, Henry, 1753-1815	new_term	persname	trent-leibmichael
+History of Medicine Collections (Duke University)	new_term	corpname	trent-leibmichael
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lemaguet
+History of Medicine Collections (Duke University)	new_term	corpname	trent-leroydetiollesjeanjacquesjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lethebyh
+Vaccination	new_term	subject	trent-letter
+Frank, Johann Peter, 1745-1821	new_term	persname	trent-letter
+Jenner, Edward, 1749-1823	new_term	persname	trent-letter
+Waterhouse, Benjamin, 1754-1846	new_term	persname	trent-letter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-letter
+Societies, Medical -- Great Britain	new_term	subject	trent-lettsomjohncoakley
+Pettigrew, Thomas Joseph, 1791-1865	new_term	persname	trent-lettsomjohncoakley
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lettsomjohncoakley
+Woolson, Abba Goold, 1838-1921	new_term	persname	trent-lewisdio
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lewisdio
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lewiswilliam
+Davy, Edmund, 1785-1857	new_term	persname	trent-liebigjustus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-liebigjustus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lippec
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lisfranc
+Yellow Fever	new_term	subject	trent-listerjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-listerjoseph
+Napoleonic Wars, 1800-1815	new_term	subject	trent-loderjustchristianvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-loderjustchristianvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lodgeoliver
+History of Medicine Collections (Duke University)	new_term	corpname	trent-loiseaucharles
+Criminology	new_term	subject	trent-lombrosocesare
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lombrosocesare
+History of Medicine Collections (Duke University)	new_term	corpname	trent-longcrawfordwilliamson
+History of Medicine Collections (Duke University)	new_term	corpname	trent-louis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-louispca
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lovelljoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lubbockjohn
+Lyall, Robert, 1790-1831	new_term	persname	trent-lyallrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lyallrobert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-lyellcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mackenziejames
+Mackenzie, Morell, 1837-1892	new_term	persname	trent-mackenziemorell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mackenziemorell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mackiejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-macnevenwilliamjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-macniderwilliamdeberniere
+History of Medicine Collections (Duke University)	new_term	corpname	trent-magendiefrancois
+History of Medicine Collections (Duke University)	new_term	corpname	trent-magnanvalentin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mainejacob
+History of Medicine Collections (Duke University)	new_term	corpname	trent-malgaignejf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mareyetiennejules
+History of Medicine Collections (Duke University)	new_term	corpname	trent-marjolinjeannicolas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-massachusettsgeneralhospitalboardoftrustees
+History of Medicine Collections (Duke University)	new_term	corpname	trent-matherelisha
+History of Medicine Collections (Duke University)	new_term	corpname	trent-matonwilliamgeorge
+Cesarean Section	new_term	subject	trent-mattheyandre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mattheyandre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-maubanhenri
+Bett, W. R. (William Reginald), 1903-	new_term	persname	trent-maughamwsomerset
+Bland-Sutton, John, Sir, 1855-1936	new_term	persname	trent-maughamwsomerset
+History of Medicine Collections (Duke University)	new_term	corpname	trent-maughamwsomerset
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mayarthur
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mayoherbert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mcclellangeorge
+Shippen, William, 1736?-1808	new_term	persname	trent-mchenryjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mchenryjames
+McKinley, William, 1843-1901	new_term	persname	trent-mckinleyidasaxton
+Mitchell, S. Weir (Silas Weir), 1829-1914	new_term	persname	trent-mckinleyidasaxton
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mckinleyidasaxton
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mcnaughtonjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-meadrichard
+Rush, Benjamin, 1746-1813	new_term	persname	trent-measejames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-measejames
+Thomson, Charles, 1729-1824	new_term	persname	trent-measejames
+Williamson, William D. (William Durkee), 1779-1846	new_term	persname	trent-measejames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-measejames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-meigsjamesaitken
+History of Medicine Collections (Duke University)	new_term	corpname	trent-meniereprosper
+Physick, Philip Syng, 1768-1837	new_term	persname	trent-meredithsamuel
+Rush, Benjamin, 1746-1813	new_term	persname	trent-meredithsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-meredithsamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-meyranxpierrestanislas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-middletonpeter
+Vaccination	new_term	subject	trent-millersamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-millersamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-millinal
+Blagden, Charles, Sir, 1748-1820	new_term	persname	trent-milmanfrancis
+Mead, Richard, 1673-1754	new_term	persname	trent-milmanfrancis
+Nicholls, Frank, 1699-1778	new_term	persname	trent-milmanfrancis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-milmanfrancis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-milneedwardsh
+Mitchell, John Kearsley, 1793-1858	new_term	persname	trent-mitchelljohnkearsley
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mitchelljohnkearsley
+Neurology -- History	new_term	subject	trent-mitchellsweir
+Physicians -- Correspondence	new_term	subject	trent-mitchellsweir
+Mitchell, S. Weir (Silas Weir), 1829-1914	new_term	persname	trent-mitchellsweir
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mitchellsweir
+History	new_term	genreform	trent-mitchellsweir
+Records and correspondence	new_term	genreform	trent-mitchellsweir
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mitchillsamuell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-moffattthomas
+Moore, John, 1729-1802	new_term	persname	trent-moorejohn
+Moore, John, 1729-1802	new_term	persname	trent-moorejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-moorejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-morgagnigiambattista
+History of Medicine Collections (Duke University)	new_term	corpname	trent-morgandaniel
+Hume, Joseph, 1777-1855	new_term	persname	trent-morganjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-morganjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-morseedwardsylvester
+Morton, Samuel George, 1799-1851	new_term	persname	trent-mortonsamuelgeorge
+Morton, Samuel George, 1799-1851	new_term	persname	trent-mortonsamuelgeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mortonsamuelgeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mortonwtg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-moseleywh
+Revere, John, 1787-1847	new_term	persname	trent-mottvalentine
+History of Medicine Collections (Duke University)	new_term	corpname	trent-mottvalentine
+Muirhead, Arnold.	new_term	persname	trent-muirheadarnold
+Osler, Grace Revere Gross,Lady.	new_term	persname	trent-muirheadarnold
+Power, D'Arcy, Sir, 1855-1941	new_term	persname	trent-muirheadarnold
+History of Medicine Collections (Duke University)	new_term	corpname	trent-muirheadarnold
+History of Medicine Collections (Duke University)	new_term	corpname	trent-murchisonroderickimpey
+History of Medicine Collections (Duke University)	new_term	corpname	trent-musgravewilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-myersthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nansenfridtjof
+Napheys, George H. (George Henry), 1842-1876	new_term	persname	trent-napheysgeorgeh
+History of Medicine Collections (Duke University)	new_term	corpname	trent-napheysgeorgeh
+Fetus	new_term	subject	trent-needhamwalter
+Embryology	new_term	subject	trent-needhamwalter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-needhamwalter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nelatonauguste
+History of Medicine Collections (Duke University)	new_term	corpname	trent-newportbotanicthomsonianinfirmary
+History of Medicine Collections (Duke University)	new_term	corpname	trent-newtoncharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nightingaleflorence
+North, Elisha, 1771-1843	new_term	persname	trent-northelisha
+History of Medicine Collections (Duke University)	new_term	corpname	trent-northelisha
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nortonrupert
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nortonwilliama
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nothnagelhermann
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nottjosiahclark
+History of Medicine Collections (Duke University)	new_term	corpname	trent-nussbaumjn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-okieahoward
+Balneology	new_term	subject	trent-oliverwilliam
+Mineral Waters	new_term	subject	trent-oliverwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-oliverwilliam
+Hysteria	new_term	subject	trent-olivierm
+Epilepsy	new_term	subject	trent-olivierm
+Lallemand, Andre.	new_term	persname	trent-olivierm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-olivierm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-olmsteddenison
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ordronauxjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-orfilamatthieujosephbonaventure
+History of Medicine Collections (Duke University)	new_term	corpname	trent-osleredwardrevere
+History of Medicine Collections (Duke University)	new_term	corpname	trent-oslerwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-owendaviddale
+History of Medicine Collections (Duke University)	new_term	corpname	trent-owenrichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-oxleyww
+Prescriptions, Drug	new_term	subject	trent-oyntmentoftobacca
+History of Medicine Collections (Duke University)	new_term	corpname	trent-oyntmentoftobacca
+Breckinridge, John C. (John Cabell), 1821-1875	new_term	persname	trent-pagerichardchanningmoore
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pagerichardchanningmoore
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pagetjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pagetstephen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-panasph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pancoastjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-parisetetienne
+History of Medicine Collections (Duke University)	new_term	corpname	trent-parkerwillard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-parrishjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-parrishjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-parsonsusher
+History of Medicine Collections (Duke University)	new_term	corpname	trent-partridgerichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pascalisouvierefelix
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pasquier
+Anthrax	new_term	subject	trent-pasteurlouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pasteurlouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pattisongranvillesharp
+Parsons, Usher, 1788-1868	new_term	persname	trent-paynealbansmith
+History of Medicine Collections (Duke University)	new_term	corpname	trent-paynealbansmith
+Evans, Estwick, 1787-1866	new_term	persname	trent-peabodynathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-peabodynathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-peanjulesemile
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pelletanphilippejean
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pennsylvaniahospitalphiladelphiapa
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pepperwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pepyslucas
+Vaccination	new_term	subject	trent-peschierjohn
+Marcet, Alexander, 1770-1822	new_term	persname	trent-peschierjohn
+Pearson, George, 1751-1828	new_term	persname	trent-peschierjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-peschierjohn
+Ehrenberg, Christian Gottfried, 1795-1876	new_term	persname	trent-peterswilhelmch
+History of Medicine Collections (Duke University)	new_term	corpname	trent-peterswilhelmch
+American Civil War	new_term	subject	trent-petitionbythecitizensofcripplecreekvirginia
+History of Medicine Collections (Duke University)	new_term	corpname	trent-petitionbythecitizensofcripplecreekvirginia
+History of Medicine Collections (Duke University)	new_term	corpname	trent-petitradel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pettenkofermaxvon
+Blessington, Marguerite, Countess of, 1789-1849	new_term	persname	trent-pettigrewthomasjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pettigrewthomasjoseph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pfeifferrichardfriedrichwilhelm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-philadelphiageneralhospital
+History of Medicine Collections (Duke University)	new_term	corpname	trent-phippsjonathanwathen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-physickphilipsyng
+History of Medicine Collections (Duke University)	new_term	corpname	trent-picassopablo
+Military Medicine -- 20th cent	new_term	subject	trent-pierreolivier
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pierreolivier
+Chodowiecki, Daniel, 1726-1801	new_term	persname	trent-pilletclaudemarie
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pilletclaudemarie
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pinelphilippe
+History of Medicine Collections (Duke University)	new_term	corpname	trent-playfairlyonplayfair
+Physicians -- Correspondence	new_term	subject	trent-pleadwellfl
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pleadwellfl
+Records and correspondence	new_term	genreform	trent-pleadwellfl
+History of Medicine Collections (Duke University)	new_term	corpname	trent-plumerwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-poiseuillejeanleonardmarie
+History of Medicine Collections (Duke University)	new_term	corpname	trent-polkwilliammecklenburg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pommepierre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-portalantoine
+Dunlap, William, 1766-1839	new_term	persname	trent-postwright
+History of Medicine Collections (Duke University)	new_term	corpname	trent-postwright
+History of Medicine Collections (Duke University)	new_term	corpname	trent-potainpierrecarledouard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-potternathaniel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pottsjonathan
+History of Medicine Collections (Duke University)	new_term	corpname	trent-poussel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pouteauclaude
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pouzin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-povallrichard
+Cushing, Harvey, 1869-1939	new_term	persname	trent-powerdarcy
+Cushing, Harvey, 1869-1939	new_term	persname	trent-powerdarcy
+Home, Everard, Sir, 1756-1832	new_term	persname	trent-powerdarcy
+Jastrow, Morris, 1861-1921	new_term	persname	trent-powerdarcy
+History of Medicine Collections (Duke University)	new_term	corpname	trent-powerdarcy
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pozzisamueljean
+History of Medicine Collections (Duke University)	new_term	corpname	trent-prescottmaryjackson
+Floyd, John, 1783-1837	new_term	persname	trent-prestonjamespatton
+History of Medicine Collections (Duke University)	new_term	corpname	trent-prestonjamespatton
+History of Medicine Collections (Duke University)	new_term	corpname	trent-priestleywo
+Prince, L. Bradford (Le Baron Bradford), 1840-1922	new_term	persname	trent-princerv
+History of Medicine Collections (Duke University)	new_term	corpname	trent-princerv
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pringlejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-prioleauthomasgrimball
+Dalton, John, 1766-1844	new_term	persname	trent-proutwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-proutwilliam
+Yellow Fever	new_term	subject	trent-puentefrancisco
+History of Medicine Collections (Duke University)	new_term	corpname	trent-puentefrancisco
+Military Medicine -- 19th cent	new_term	subject	trent-pugnetjf
+Pugnet, Jean Francois Xavier, 1765-1846	new_term	persname	trent-pugnetjf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-pugnetjf
+Obstetrics	new_term	subject	trent-puzosnicolas
+Labor, Obstetric	new_term	subject	trent-puzosnicolas
+Pregnancy	new_term	subject	trent-puzosnicolas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-puzosnicolas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-quackenboshenryf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-quainrichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-radinhermant
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rafncarlchristian
+Education, Medical	new_term	subject	trent-raineyww
+Students, Medical	new_term	subject	trent-raineyww
+History of Medicine Collections (Duke University)	new_term	corpname	trent-raineyww
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rammstedtwilhelmconrad
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ramsaydavid
+Obstetrics	new_term	subject	trent-ramsbothamjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ramsbothamjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ranvierl
+Fumigation	new_term	subject	trent-rapoutoussaint
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rapoutoussaint
+Johnston, Harriet Lane, 1830-1903	new_term	persname	trent-rathbunrichard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rathbunrichard
+National Gallery of Art (U.S.)	new_term	corpname	trent-rathbunrichard
+Smithsonian Institution.	new_term	corpname	trent-rathbunrichard
+Botany	new_term	subject	trent-ravenelhw
+Plants, Medicinal	new_term	subject	trent-ravenelhw
+Porcher, Francis Peyre, 1825-1895	new_term	persname	trent-ravenelhw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ravenelhw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rayisaac
+World War, 1914-1918	new_term	subject	trent-reedcharlesbailey
+Soldiers -- Correspondence	new_term	subject	trent-reedcharlesbailey
+Reed, Charles Bailey.	new_term	persname	trent-reedcharlesbailey
+History of Medicine Collections (Duke University)	new_term	corpname	trent-reedcharlesbailey
+France -- World War, 1914-1918 -- History	new_term	geogname	trent-reedcharlesbailey
+History of Medicine Collections (Duke University)	new_term	corpname	trent-reesedavidmeredith
+History of Medicine Collections (Duke University)	new_term	corpname	trent-renwickjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-retziusa
+History of Medicine Collections (Duke University)	new_term	corpname	trent-reynoldsedward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-richardad
+History of Medicine Collections (Duke University)	new_term	corpname	trent-richardsonbenjaminward
+History of Medicine Collections (Duke University)	new_term	corpname	trent-richeranda
+Capital Punishment	new_term	subject	trent-richetcharles
+Capus, Alfred, 1858-1922	new_term	persname	trent-richetcharles
+Coquelin, Constant, 1841-1909	new_term	persname	trent-richetcharles
+Dolet, Etienne, 1509-1546	new_term	persname	trent-richetcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-richetcharles
+Comedie-Francais.	new_term	corpname	trent-richetcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-richetcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ricordph
+History of Medicine Collections (Duke University)	new_term	corpname	trent-riddelljohnleonard
+Ankylosing spondylitis -- History	new_term	subject	trent-ridlonjohn
+Medicine, Military -- United States -- History -- 20th century	new_term	subject	trent-ridlonjohn
+Military bases -- New York (State) -- Pictorial works	new_term	subject	trent-ridlonjohn
+Orthopedics -- United States -- History	new_term	subject	trent-ridlonjohn
+Orthopedic surgery -- United States -- History	new_term	subject	trent-ridlonjohn
+Orthopedists -- Correspondence	new_term	subject	trent-ridlonjohn
+Pediatric orthopedics -- History	new_term	subject	trent-ridlonjohn
+Pediatrics	new_term	subject	trent-ridlonjohn
+Scoliosis -- History	new_term	subject	trent-ridlonjohn
+Scoliosis in children -- History	new_term	subject	trent-ridlonjohn
+Tuberculosis -- History	new_term	subject	trent-ridlonjohn
+Tuberculosis in children -- History	new_term	subject	trent-ridlonjohn
+World War, 1914-1918 -- Medical care -- United States -- Pictorial works	new_term	subject	trent-ridlonjohn
+Cushing, Harvey, 1869-1939	new_term	persname	trent-ridlonjohn
+Ghormley, Ralph K. (Ralph Kalb), 1893-1959	new_term	persname	trent-ridlonjohn
+Goldthwait, Joel E. (Joel Ernest), 1866-	new_term	persname	trent-ridlonjohn
+Judson, Adoniram Brown, 1837-1916	new_term	persname	trent-ridlonjohn
+Lorenz, Adolf, 1854-1946	new_term	persname	trent-ridlonjohn
+Lovett, Robert W. (Robert Williamson), 1859-1924	new_term	persname	trent-ridlonjohn
+Mitchell, S. Weir (Silas Weir), 1829-1914	new_term	persname	trent-ridlonjohn
+Orr, H. Winnett (Hiram Winnett), 1877-1956	new_term	persname	trent-ridlonjohn
+Osgood, Robert Bayley, 1873-1956	new_term	persname	trent-ridlonjohn
+Ridlon, John, 1852-1936	new_term	persname	trent-ridlonjohn
+Steindler, Arthur, 1878-	new_term	persname	trent-ridlonjohn
+Wilson, Philip (Philip Duncan), b. 1886	new_term	persname	trent-ridlonjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ridlonjohn
+United States. Army Medical Reserve Corps	new_term	corpname	trent-ridlonjohn
+Chicago (Ill.)	new_term	geogname	trent-ridlonjohn
+Plattsburgh (N.Y.)	new_term	geogname	trent-ridlonjohn
+Black-and-white photographs	new_term	genreform	trent-ridlonjohn
+Scrapbooks	new_term	genreform	trent-ridlonjohn
+Vaccination	new_term	subject	trent-ringjohn
+Pennington, Isaac,Sir.	new_term	persname	trent-ringjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ringjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-robert
+Fractures -- therapy	new_term	subject	trent-robertsj
+Military Medicine	new_term	subject	trent-robertsj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-robertsj
+History of Medicine	new_term	subject	trent-robinsonvictor
+History of Medicine -- Periodicals	new_term	subject	trent-robinsonvictor
+Castiglioni, Arturo, 1874-1953	new_term	persname	trent-robinsonvictor
+Juettner, Otto, 1865-1922	new_term	persname	trent-robinsonvictor
+Knopf, Alfred A., 1892-1984	new_term	persname	trent-robinsonvictor
+Krumbhaar, E. B. (Edward Bell), 1882-1966	new_term	persname	trent-robinsonvictor
+Robinson, William J. q (William Josephus), 1867-1936	new_term	persname	trent-robinsonvictor
+Ruffer, Marc Armand, Sir, 1859-1917	new_term	persname	trent-robinsonvictor
+Sigerist, Henry E., 1891-1957	new_term	persname	trent-robinsonvictor
+Torre-Bueno, J. R. de la (Jose Rollin), 1871-	new_term	persname	trent-robinsonvictor
+History of Medicine Collections (Duke University)	new_term	corpname	trent-robinsonvictor
+Scurvy	new_term	subject	trent-rodgersjohn
+Barton, William P. C. (William Paul Crillon), 1786-1856	new_term	persname	trent-rodgersjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rodgersjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rodneythomas
+Earle, Pliny, 1809-1892	new_term	persname	trent-roeserbernard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-roeserbernard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rogerhenrilouis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rogersjsmyth
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rogerstheophilus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rollestonhumphrydavy
+History of Medicine Collections (Duke University)	new_term	corpname	trent-roosadbstjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rootjosephpomeroy
+Malaria	new_term	subject	trent-rossronald
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rossronald
+History of Medicine Collections (Duke University)	new_term	corpname	trent-roux
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rouxfernand
+History of Medicine Collections (Duke University)	new_term	corpname	trent-roylejt
+Armstrong, John, 1758-1843	new_term	persname	trent-rushbenjamin
+Bayard, John Bubenheim, 1738-1807	new_term	persname	trent-rushbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rushbenjamin
+Dickinson College.	new_term	corpname	trent-rushbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rushbenjamin
+University of Pennsylvania.	new_term	corpname	trent-rushbenjamin
+Pennsylvania	new_term	geogname	trent-rushbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-russellcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-rustonthomas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sabatierraphaelbienvenu
+History of Medicine Collections (Duke University)	new_term	corpname	trent-salmonfrederick
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sanarelligiuseppe
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sandwithhumphry
+Kearny, Philip, 1815-1862	new_term	persname	trent-satterleers
+History of Medicine Collections (Duke University)	new_term	corpname	trent-satterleers
+History of Medicine Collections (Duke University)	new_term	corpname	trent-saunderswilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sayerjohnlathrop
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sayrelewisa
+Military Medicine -- United States -- History	new_term	subject	trent-schenckpeterv
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schenckpeterv
+United States -- History -- Civil War, 1861-1865	new_term	geogname	trent-schenckpeterv
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schleichcarlludwig
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schombergisaac
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schombergisaac
+Royal College of Physicians of London.	new_term	corpname	trent-schombergisaac
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schonleinjohannlukas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schulzefranzeilhard
+Stringer, Samuel, 1734-1817	new_term	persname	trent-schuylerphilipjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-schuylerphilipjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-searsjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-seegermain
+Pinel, Philippe, 1745-1826	new_term	persname	trent-semelaignerene
+History of Medicine Collections (Duke University)	new_term	corpname	trent-semelaignerene
+History of Medicine Collections (Duke University)	new_term	corpname	trent-senterisaac
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sewallthomas
+Warren, John Collins, 1778-1856	new_term	persname	trent-shattuckfrederickcheever
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shattuckfrederickcheever
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shecutjohnlew
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shelmerdinea
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shippenwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shortcharleswilkins
+History of Medicine Collections (Duke University)	new_term	corpname	trent-shortsorw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sichelj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sieboldeduardcasparjacobvon
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sillimanbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-sillwilliamm
+Byron, George Gordon Byron, Baron, 1788-1824	new_term	persname	trent-simondevillevieillejacquelinen
+Simon de Villevieille, Jacqueline N.	new_term	persname	trent-simondevillevieillejacquelinen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-simondevillevieillejacquelinen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-simpsonjamesyoung
+History of Medicine Collections (Duke University)	new_term	corpname	trent-simsjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-simsjmarion
+History of Medicine, Medieval	new_term	subject	trent-singercharles
+Cockayne, Thomas Oswald, 1807-1873	new_term	persname	trent-singercharles
+Power, D'Arcy, Sir, 1855-1941	new_term	persname	trent-singercharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-singercharles
+Ervine, St. John G. (St. John Greer), b. 1883	new_term	persname	trent-smithgraftonelliot
+History of Medicine Collections (Duke University)	new_term	corpname	trent-smithgraftonelliot
+History of Medicine Collections (Duke University)	new_term	corpname	trent-smithjeromevancrowninshield
+History of Medicine Collections (Duke University)	new_term	corpname	trent-smithjosephr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-smithsouthwood
+History of Medicine Collections (Duke University)	new_term	corpname	trent-smythwg
+History of Medicine	new_term	subject	trent-spaldinglyman
+Abernethy, John, 1764-1831	new_term	persname	trent-spaldinglyman
+Bell, Charles, Sir, 1774-1842	new_term	persname	trent-spaldinglyman
+Blizard, William, Sir, 1743-1835	new_term	persname	trent-spaldinglyman
+Brande, William Thomas, 1788-1866	new_term	persname	trent-spaldinglyman
+Cleaveland, Parker, 1780-1858	new_term	persname	trent-spaldinglyman
+De La Motta, Jacob, 1789-1845	new_term	persname	trent-spaldinglyman
+Frank, Johann Peter, 1745-1821	new_term	persname	trent-spaldinglyman
+Gorham, John, 1783-1829	new_term	persname	trent-spaldinglyman
+Home, Everard, Sir, 1756-1832	new_term	persname	trent-spaldinglyman
+Langdon, John, 1741-1819	new_term	persname	trent-spaldinglyman
+Lawrence, William, Sir, 1783-1867	new_term	persname	trent-spaldinglyman
+Mitchill, Samuel L. (Samuel Latham), 1764-1831	new_term	persname	trent-spaldinglyman
+Onderdonk, Henry U. (Henry Ustick), 1789-1858	new_term	persname	trent-spaldinglyman
+Parsons, Usher, 1788-1868	new_term	persname	trent-spaldinglyman
+Peck, William Dandridge, 1763-1822	new_term	persname	trent-spaldinglyman
+Potter, Nathaniel, 1770-1843	new_term	persname	trent-spaldinglyman
+Richards, George, 1755?-1814	new_term	persname	trent-spaldinglyman
+Ricketson, Shadrach.	new_term	persname	trent-spaldinglyman
+Rush, Benjamin, 1746-1813	new_term	persname	trent-spaldinglyman
+Shattuck, George Cheyne, 1783-1854	new_term	persname	trent-spaldinglyman
+Shecut, John L. E. W. (John Linnaeus Edward Whitridge), 1770-1836	new_term	persname	trent-spaldinglyman
+Smith, John Augustine, 1782-1865	new_term	persname	trent-spaldinglyman
+Warren, John Collins, 1778-1856	new_term	persname	trent-spaldinglyman
+Waterhouse, Benjamin, 1754-1846	new_term	persname	trent-spaldinglyman
+Wistar, Caspar, 1761-1818	new_term	persname	trent-spaldinglyman
+Woodward, William Henry, 1774-1818	new_term	persname	trent-spaldinglyman
+History of Medicine Collections (Duke University)	new_term	corpname	trent-spaldinglyman
+Medical education -- England -- London -- History	new_term	subject	trent-spaldingmatthias
+Physicians -- Correspondence	new_term	subject	trent-spaldingmatthias
+Vaccination -- History	new_term	subject	trent-spaldingmatthias
+Teaching hospitals -- England -- London -- History	new_term	subject	trent-spaldingmatthias
+Spalding, Matthias.	new_term	persname	trent-spaldingmatthias
+History of Medicine Collections (Duke University)	new_term	corpname	trent-spaldingmatthias
+St. Thomas's Hospital (London, England)	new_term	corpname	trent-spaldingmatthias
+History of Medicine Collections (Duke University)	new_term	corpname	trent-spencercharlesachilles
+Power, D'Arcy, Sir, 1855-1941	new_term	persname	trent-spiceyfrederick
+History of Medicine Collections (Duke University)	new_term	corpname	trent-spiceyfrederick
+History of Medicine Collections (Duke University)	new_term	corpname	trent-spurzheimjg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-standishmyles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-startinjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stevensalexanderh
+Rivers, W. H. R. (William Halse Rivers), 1864-1922	new_term	persname	trent-stirlinggilchristj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stirlinggilchristj
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stonerobertking
+Stopes, Marie Carmichael, 1880-1958	new_term	persname	trent-stopesmariecarmichael
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stopesmariecarmichael
+History of Medicine Collections (Duke University)	new_term	corpname	trent-storerdavidhumphreys
+History of Medicine Collections (Duke University)	new_term	corpname	trent-storermalcolm
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stringersamuel
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stthomasshospitallondonengland
+Military Medicine	new_term	subject	trent-stvincentjohnjervis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-stvincentjohnjervis
+History of Medicine Collections (Duke University)	new_term	corpname	trent-suep
+History of Medicine Collections (Duke University)	new_term	corpname	trent-swaimwilliam
+Salvini, Anton Maria, 1653-1729	new_term	persname	trent-swietengerard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-swietengerard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-swiftsamuel
+Cushing, E. W. (Ernest Watson), 1847-1916	new_term	persname	trent-taitlawson
+Hart, Ernest Abraham, 1835-1898	new_term	persname	trent-taitlawson
+History of Medicine Collections (Duke University)	new_term	corpname	trent-taitlawson
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tanchoustanislas
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tardieuambroise
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tarnieretiennestephane
+History of Medicine Collections (Duke University)	new_term	corpname	trent-taylorcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-taylorgeorgeb
+Allbutt, T. Clifford (Thomas Clifford), 1836-1925	new_term	persname	trent-tealetpridgin
+Rolleston, Humphry Davy, Sir, 1862-1944	new_term	persname	trent-tealetpridgin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tealetpridgin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-terrade
+History of Medicine Collections (Duke University)	new_term	corpname	trent-terrillono
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thackeraywilliammakepeace
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thauraux
+Enzymes	new_term	subject	trent-theorellhugo
+Enzyme Activation	new_term	subject	trent-theorellhugo
+History of Medicine Collections (Duke University)	new_term	corpname	trent-theorellhugo
+Bayen, Pierre, 1725-1798	new_term	persname	trent-thibaultjeancharles
+Coste, Jean Francois, 1741-1819	new_term	persname	trent-thibaultjeancharles
+Heurteloup, Nicolas, 1750-1812	new_term	persname	trent-thibaultjeancharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thibaultjeancharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thomashleigh
+Bayen, Pierre, 1725-1798	new_term	persname	trent-thomassinjeanfrancois
+Coste, Jean Francois, 1741-1819	new_term	persname	trent-thomassinjeanfrancois
+Saucerotte, Nicolas, 1741-1814	new_term	persname	trent-thomassinjeanfrancois
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thomassinjeanfrancois
+Gynecology -- United States -- History	new_term	subject	trent-thomastgaillard
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thomastgaillard
+Elliott, Jesse D. (Jesse Duncan), 1782-1845	new_term	persname	trent-thompsonabrahamrand
+Jackson, Andrew, 1767-1845	new_term	persname	trent-thompsonabrahamrand
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thompsonabrahamrand
+Mortuary Practice	new_term	subject	trent-thompsonhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thompsonhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-thouretmichelaugustin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-throopamos
+History of Medicine Collections (Duke University)	new_term	corpname	trent-ticknorluther
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tiedemannfriedrich
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tiemanngeorge
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tiltonjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-torreyjohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tracyelisha
+History of Medicine Collections (Duke University)	new_term	corpname	trent-treatmalachi
+Collectors and collecting -- North Carolina	new_term	subject	trent-trentjosiahc
+Book collecting	new_term	subject	trent-trentjosiahc
+Epidemiology -- History	new_term	subject	trent-trentjosiahc
+History of medicine	new_term	subject	trent-trentjosiahc
+Medical illustration	new_term	subject	trent-trentjosiahc
+Surgery -- History	new_term	subject	trent-trentjosiahc
+Semans, Mary Duke Biddle Trent.	new_term	persname	trent-trentjosiahc
+Trent, Josiah C. (Josiah Charles), 1914-1948	new_term	persname	trent-trentjosiahc
+Trent, Josiah C. (Josiah Charles), 1914-1948 -- Library.	new_term	persname	trent-trentjosiahc
+Duke University. Medical Center	new_term	corpname	trent-trentjosiahc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-trentjosiahc
+University of Pennsylvania. School of Medicine	new_term	corpname	trent-trentjosiahc
+Negatives	new_term	genreform	trent-trentjosiahc
+Photographs	new_term	genreform	trent-trentjosiahc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-trevesfrederick
+History of Medicine Collections (Duke University)	new_term	corpname	trent-trousseaua
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tukedanielhack
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turkwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turnerdawson
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turneredwardkitchen
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turnerpeter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turnerw
+History of Medicine Collections (Duke University)	new_term	corpname	trent-turnerwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tweedalejohn
+History of Medicine Collections (Duke University)	new_term	corpname	trent-tyndalljohn
+Medicine -- Societies, etc	new_term	subject	trent-urodynamicssociety
+Urology -- History	new_term	subject	trent-urodynamicssociety
+Boyarsky, Saul.	new_term	persname	trent-urodynamicssociety
+History of Medicine Collections (Duke University)	new_term	corpname	trent-urodynamicssociety
+Urodynamics Society.	new_term	corpname	trent-urodynamicssociety
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vaihingerhans
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vallisnieriantonio
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vanderburghfederal
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vaughanbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vauquelinlouisnicolas
+Cornil, V. (Victor), 1837-1908	new_term	persname	trent-verneuilaristide
+Letulle, Maurice Eleonore Joseph Lucien, 1853-1929	new_term	persname	trent-verneuilaristide
+History of Medicine Collections (Duke University)	new_term	corpname	trent-verneuilaristide
+History of Medicine Collections (Duke University)	new_term	corpname	trent-verneypierre
+History of Medicine Collections (Duke University)	new_term	corpname	trent-verralcharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-verwornmax
+Endocrinology	new_term	subject	trent-vincentswale
+Vincent, Swale, 1868- 1934	new_term	persname	trent-vincentswale
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vincentswale
+History of Medicine Collections (Duke University)	new_term	corpname	trent-virchowrudolf
+History of Medicine Collections (Duke University)	new_term	corpname	trent-voelckerfriedrich
+History of Medicine Collections (Duke University)	new_term	corpname	trent-vulpiana
+History of Medicine Collections (Duke University)	new_term	corpname	trent-waddwilliam
+History of Medicine Collections (Duke University)	new_term	corpname	trent-walkermaryedwards
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wardhumphry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wardropjames
+History of Medicine Collections (Duke University)	new_term	corpname	trent-warejohn
+Physicians -- United States	new_term	subject	trent-warnermr
+Miner, Dr. Thomas.	new_term	persname	trent-warnermr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-warnermr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-warrenjohncollins
+History of Medicine Collections (Duke University)	new_term	corpname	trent-warrensamuel
+Physicians -- Correspondence	new_term	subject	trent-waterhousebenjamin
+Vaccination -- History	new_term	subject	trent-waterhousebenjamin
+Cass, Lewis, 1782-1866	new_term	persname	trent-waterhousebenjamin
+Cogswell, William, 1787-1850	new_term	persname	trent-waterhousebenjamin
+Coxe, John Redman, 1773-1864	new_term	persname	trent-waterhousebenjamin
+Dearborn, H. A. S. (Henry Alexander Scammell), 1783-1851	new_term	persname	trent-waterhousebenjamin
+Dearborn, Henry, 1751-1829	new_term	persname	trent-waterhousebenjamin
+Elton, Romeo, 1790-1870	new_term	persname	trent-waterhousebenjamin
+Gorham, John, 1783-1829	new_term	persname	trent-waterhousebenjamin
+Jackson, James, 1777-1867	new_term	persname	trent-waterhousebenjamin
+Jefferson, Thomas, 1743-1826	new_term	persname	trent-waterhousebenjamin
+Jenks, William, 1778-1866	new_term	persname	trent-waterhousebenjamin
+Kirkland, John Thornton, 1770-1840	new_term	persname	trent-waterhousebenjamin
+Lathrop, John, 1740-1816	new_term	persname	trent-waterhousebenjamin
+Lincoln, Benjamin, 1733-1810	new_term	persname	trent-waterhousebenjamin
+Monroe, James, 1758-1831	new_term	persname	trent-waterhousebenjamin
+Redman, John, 1722-1808	new_term	persname	trent-waterhousebenjamin
+Silliman, Benjamin, 1779-1864	new_term	persname	trent-waterhousebenjamin
+Sparks, Jared, 1789-1866	new_term	persname	trent-waterhousebenjamin
+Sullivan, James, 1744-1808	new_term	persname	trent-waterhousebenjamin
+Tilton, James, 1745-1822	new_term	persname	trent-waterhousebenjamin
+Warren, John Collins, 1778-1856	new_term	persname	trent-waterhousebenjamin
+Warren, John, 1753-1815	new_term	persname	trent-waterhousebenjamin
+Waterhouse, Benjamin, 1754-1846	new_term	persname	trent-waterhousebenjamin
+Webster, Daniel, 1782-1852	new_term	persname	trent-waterhousebenjamin
+Williams, Samuel, 1743-1817	new_term	persname	trent-waterhousebenjamin
+Winthrop, James, 1752-1821	new_term	persname	trent-waterhousebenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-waterhousebenjamin
+History	new_term	genreform	trent-waterhousebenjamin
+Records and correspondence	new_term	genreform	trent-waterhousebenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wattscharles
+History of Medicine Collections (Duke University)	new_term	corpname	trent-websterbenjamin
+History of Medicine Collections (Duke University)	new_term	corpname	trent-websterjohnwhite
+History of Medicine Collections (Duke University)	new_term	corpname	trent-weigertcarl
+History of Medicine Collections (Duke University)	new_term	corpname	trent-weitzeljohn
+Physicians -- Correspondence	new_term	subject	trent-welchwilliamhenry
+Davison, Wilburt Cornell, 1892-1972	new_term	persname	trent-welchwilliamhenry
+Welch, William Henry, 1850-1934	new_term	persname	trent-welchwilliamhenry
+Duke University. School of Medicine -- Faculty	new_term	corpname	trent-welchwilliamhenry
+Duke University. School of Medicine -- History	new_term	corpname	trent-welchwilliamhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-welchwilliamhenry
+History	new_term	genreform	trent-welchwilliamhenry
+Records and correspondence	new_term	genreform	trent-welchwilliamhenry
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wellshorace
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wheatonlevi
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wildewr
+History of Medicine Collections (Duke University)	new_term	corpname	trent-williamsdavid
+History of Medicine Collections (Duke University)	new_term	corpname	trent-willoughbywestelwoodbury
+Hunt, Leigh, 1784-1859	new_term	persname	trent-wilsonerasmus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wilsonerasmus
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wintringhamclifton
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wistarcaspar
+History of Medicine Collections (Duke University)	new_term	corpname	trent-woodbridgedudley
+Billings, John Shaw, 1838-1913	new_term	persname	trent-woodhc
+Stille, Alfred, 1813-1900	new_term	persname	trent-woodhc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-woodhc
+History of Medicine Collections (Duke University)	new_term	corpname	trent-woodvillewilliam
+Taylor, Zachary, 1784-1850	new_term	persname	trent-woodwilliammaxwell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-woodwilliammaxwell
+History of Medicine Collections (Duke University)	new_term	corpname	trent-wymanwalter
+History of Medicine Collections (Duke University)	new_term	corpname	trent-yeatsgd
+Frederick Augustus, Duke of York and Albany, 1763-1827	new_term	persname	trent-zimmermannjohanngeorg
+History of Medicine Collections (Duke University)	new_term	corpname	trent-zimmermannjohanngeorg
