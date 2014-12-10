@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">[Hughes, Thomas]</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Manuscript notebook listing inventory with prices of stock in a general store :, includes pharmaceutical items</unittitle>
+         <unittitle label="Title" encodinganalog="245">Manuscript notebook listing inventory with prices of stock in a general store : includes pharmaceutical items</unittitle>
          <unitdate type="inclusive" era="ce" calendar="gregorian"/>
          <langmaterial>
             <language langcode="eng"/>
@@ -51,7 +51,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>p. 61-97, [8] p. ;</extent>
+            <extent>1 items</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
       </did>

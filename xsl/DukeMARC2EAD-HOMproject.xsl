@@ -46,7 +46,7 @@
   
 <!-- Hardcoded Date variable use in place of above, change as needed-->
 <xsl:variable name="Year" select="'2014'"/>
-<xsl:variable name="Month" select="'October'"/>
+<xsl:variable name="Month" select="'December'"/>
 
 
 <!-- LANGUAGE VARIABLES Add more as needed-->
@@ -262,10 +262,19 @@
 
           <unittitle label="Title" encodinganalog="245">
             <xsl:value-of select="replace($CollectionTitle,',$','')"/>
-            <xsl:if test="marc:datafield[@tag='245']/marc:subfield [@code='b']">
+            
+            <!-- to account for 245$a that ends with : do not add comma -->
+            <xsl:if test="marc:datafield[@tag='245']/marc:subfield [@code='b'] and not(ends-with($CollectionTitle, ':'))">
             <xsl:text>, </xsl:text>
             <xsl:value-of select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield [@code='b'],'\.$',''))"/>
             </xsl:if>
+          
+            <xsl:if test="marc:datafield[@tag='245']/marc:subfield [@code='b'] and ends-with($CollectionTitle, ':')">
+              <xsl:text> </xsl:text>
+              <xsl:value-of select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield [@code='b'],'\.$',''))"/>
+            </xsl:if>
+            
+          
           </unittitle>
   
 <!-- Date info -->  
@@ -337,26 +346,26 @@
 <xsl:choose>
   <xsl:when test="contains($extent_string, 'lin') and contains($extent_string, ')')">
   <physdesc>
-    <extent><xsl:value-of select="substring-before(substring-after($extent_string, '('), 'lin')"/><xsl:text> linear feet</xsl:text></extent>
+    <extent><xsl:value-of select="normalize-space(substring-before(substring-after($extent_string, '('), 'lin'))"/><xsl:text> linear feet</xsl:text></extent>
   </physdesc>
   </xsl:when>
   
   <xsl:when test="contains($extent_string, 'lin') and not(contains($extent_string, ')'))">
     <physdesc>
-      <extent><xsl:value-of select="substring-before($extent_string, 'lin')"/><xsl:text> linear feet</xsl:text></extent>
+      <extent><xsl:value-of select="normalize-space(substring-before($extent_string, 'lin'))"/><xsl:text> linear feet</xsl:text></extent>
     </physdesc>
   </xsl:when>
   
 <xsl:when test="contains($extent_string, 'item') and not(contains($extent_string, 'lin'))">
   <physdesc>
-    <extent><xsl:value-of select="translate(substring-before($extent_string,'item'), ',','')"/><xsl:text> items</xsl:text></extent>
+    <extent><xsl:value-of select="normalize-space(translate(substring-before($extent_string,'item'), ',',''))"/><xsl:text> items</xsl:text></extent>
   </physdesc>
 </xsl:when>
 
   
 <xsl:otherwise>
   <physdesc>
-    <extent><xsl:value-of select="$extent_string"/></extent>
+    <extent><xsl:value-of select="normalize-space($extent_string)"/></extent>
   </physdesc>
 </xsl:otherwise>  
  </xsl:choose> 
@@ -462,7 +471,7 @@
 
           <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>[Identification of item], in the <xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="replace($CollectionDate,'\.$','')"/>
+            <p><xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="replace($CollectionDate,'\.$','')"/>
               <xsl:if test="marc:datafield[@tag='245']/marc:subfield[@code='b']">
                 <xsl:text>, </xsl:text>
                 <xsl:value-of select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield[@code='b'],'\.$',''))"></xsl:value-of>
@@ -482,7 +491,7 @@
           <processinfo>
             <head>Processing Information</head>
             <p>Processed by: <xsl:value-of select="$ProcessorName"/></p>
-            <p>Finding aid derived from MARC record, <xsl:value-of select="$Month"/><xsl:text> </xsl:text><xsl:value-of select="$Year"/></p>
+            <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, <xsl:value-of select="$Month"/><xsl:text> </xsl:text><xsl:value-of select="$Year"/></p>
           </processinfo>
 </descgrp>
         

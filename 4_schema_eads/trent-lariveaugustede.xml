@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>[Identification of item], in the Auguste de La Rive Letter, 1846, May 9, Geneva, to the "Maistre de l'instruction publique.", David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Auguste de La Rive Letter, 1846, May 9, Geneva, to the "Maistre de l'instruction publique.", David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
@@ -80,7 +80,7 @@
          <processinfo>
             <head>Processing Information</head>
             <p>Processed by: Rubenstein Staff</p>
-            <p>Finding aid derived from MARC record, October 2014</p>
+            <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December 2014</p>
          </processinfo>
       </descgrp>
       <bioghist>
