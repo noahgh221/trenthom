@@ -9,7 +9,7 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::William M. Sill note, 1886, Apr. 15. //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::William M. Sill note, 1886, Apr. 15 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-sillwilliamm/">trent-sillwilliamm</eadid>
       <filedesc>
          <titlestmt>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Attests that Sill attended M. August Gaschet during the latter's illnss.</abstract>

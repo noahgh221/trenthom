@@ -9,11 +9,11 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles Watts papers, 1813-1833, //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles Watts papers, 1813-1833 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-wattscharlespapers/">trent-wattscharlespapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles Watts papers, 1813-1833,, New Orleans</titleproper>
+            <titleproper>Guide to the Charles Watts papers, 1813-1833, New Orleans</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Charles Watts papers, 1813-1833,, New Orleans, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Charles Watts papers, 1813-1833, New Orleans, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

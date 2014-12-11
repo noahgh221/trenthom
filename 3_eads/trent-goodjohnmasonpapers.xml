@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-goodjohnmasonpapers/">trent-goodjohnmasonpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the John Mason Good papers, undated [probably between 1784 and 1827]</titleproper>
+            <titleproper>Guide to the John Mason Good papers, undated [probably between 1784 and 1827].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1784/1827"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">undated [probably between 1784 and 1827]</unitdate>
+                   calendar="gregorian">undated [probably between 1784 and 1827].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>John Mason Good papers, undated [probably between 1784 and 1827], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>John Mason Good papers, undated [probably between 1784 and 1827]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

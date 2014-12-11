@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Jean Girard letter, 1814, Sept. 4. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-girardj/">trent-girardj</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Jean Girard Letter, 1814, Sept. 4, [Paris], to M. Este, London</titleproper>
+            <titleproper>Guide to the Jean Girard Letter, 1814, Sept. 4., [Paris], to M. Este, London</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Girard, J. (Jean), 1770-1852</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Jean Girard letter, [Paris], to M. Este, London</unittitle>
-         <unitdate normal="1814/1814" type="inclusive" era="ce" calendar="gregorian">1814, Sept. 4</unitdate>
+         <unitdate normal="1814/1814" type="inclusive" era="ce" calendar="gregorian">1814, Sept. 4.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS. A cordial personal letter.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Jean Girard Letter, 1814, Sept. 4, [Paris], to M. Este, London, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Jean Girard Letter, 1814, Sept. 4., [Paris], to M. Este, London, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

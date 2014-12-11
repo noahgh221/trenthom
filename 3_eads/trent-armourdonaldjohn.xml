@@ -9,11 +9,11 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Donald John Armour letter, 1904, Jun. 10, //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Donald John Armour letter, 1904, Jun. 10 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-armourdonaldjohn/">trent-armourdonaldjohn</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Donald John Armour Letter, 1904, Jun. 10,, [London], to "My dear Teddy."</titleproper>
+            <titleproper>Guide to the Donald John Armour Letter, 1904, Jun. 10, [London], to "My dear Teddy."</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Letter (ALS) acknowledges the receipt of a letter and check. Expresses gratification that he has been able to provide not only professional services, but also those of a friend.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Donald John Armour Letter, 1904, Jun. 10,, [London], to "My dear Teddy.", David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Donald John Armour Letter, 1904, Jun. 10, [London], to "My dear Teddy.", David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::A. Howard Okie papers, 1842-1868 and undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-okieahowardpapers/">trent-okieahowardpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the A. Howard Okie papers, 1842-1868 and undated</titleproper>
+            <titleproper>Guide to the A. Howard Okie papers, 1842-1868 and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Okie, A. Howard (Abraham Howard)</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">A. Howard Okie papers</unittitle>
-         <unitdate normal="1842/1868" type="inclusive" era="ce" calendar="gregorian">1842-1868 and undated</unitdate>
+         <unitdate normal="1842/1868" type="inclusive" era="ce" calendar="gregorian">1842-1868 and undated.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>A. Howard Okie papers, 1842-1868 and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>A. Howard Okie papers, 1842-1868 and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

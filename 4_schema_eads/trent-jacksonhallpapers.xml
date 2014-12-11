@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Hall Jackson papers, 1775 and undated [before 1783, end of Revolutionary War]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-jacksonhallpapers/">trent-jacksonhallpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Hall Jackson papers, 1775 and undated [before 1783, end of Revolutionary War]</titleproper>
+            <titleproper>Guide to the Hall Jackson papers, 1775 and undated [before 1783, end of Revolutionary War].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Jackson, Hall, 1739-1797</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Hall Jackson papers</unittitle>
-         <unitdate normal="1775/1783" type="inclusive" era="ce" calendar="gregorian">1775 and undated [before 1783, end of Revolutionary War]</unitdate>
+         <unitdate normal="1775/1783" type="inclusive" era="ce" calendar="gregorian">1775 and undated [before 1783, end of Revolutionary War].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Hall Jackson papers, 1775 and undated [before 1783, end of Revolutionary War], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Hall Jackson papers, 1775 and undated [before 1783, end of Revolutionary War]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

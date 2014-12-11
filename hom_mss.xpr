@@ -920,6 +920,5 @@
         <folder path="2_marcxml_from_aleph/"/>
         <folder path="3_eads/"/>
         <folder path="4_schema_eads/"/>
-        <folder path="5_post_processed_eads/"/>
     </projectTree>
 </project>

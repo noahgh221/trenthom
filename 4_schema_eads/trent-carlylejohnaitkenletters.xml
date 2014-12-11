@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::John Aitken Carlyle letters, 1840 and undated [between 1843-1854]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-carlylejohnaitkenletters/">trent-carlylejohnaitkenletters</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the John Aitken Carlyle Letters, 1840 and undated [between 1843-1854]</titleproper>
+            <titleproper>Guide to the John Aitken Carlyle Letters, 1840 and undated [between 1843-1854].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Carlyle, John Aitken, 1801-1879</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">John Aitken Carlyle letters</unittitle>
-         <unitdate normal="1840/1854" type="inclusive" era="ce" calendar="gregorian">1840 and undated [between 1843-1854]</unitdate>
+         <unitdate normal="1840/1854" type="inclusive" era="ce" calendar="gregorian">1840 and undated [between 1843-1854].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>John Aitken Carlyle Letters, 1840 and undated [between 1843-1854], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>John Aitken Carlyle Letters, 1840 and undated [between 1843-1854]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

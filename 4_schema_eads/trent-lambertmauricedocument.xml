@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Maurice Lambert document, [1918]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-lambertmauricedocument/">trent-lambertmauricedocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Maurice Lambert document, [1918]</titleproper>
+            <titleproper>Guide to the Maurice Lambert document, [1918].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Lambert, Maurice.</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Maurice Lambert document</unittitle>
-         <unitdate normal="1918/1918" type="inclusive" era="ce" calendar="gregorian">[1918]</unitdate>
+         <unitdate normal="1918/1918" type="inclusive" era="ce" calendar="gregorian">[1918].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Typed document. Physician's record of Lambert's stay at the Centre Neurologique, Place de Rouen, for observation and treatment of nervous disorders.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Maurice Lambert document, [1918], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Maurice Lambert document, [1918]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

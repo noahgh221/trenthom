@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Victor Robinson papers, 1910-1947 and undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-robinsonvictorpapers/">trent-robinsonvictorpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Victor Robinson papers, 1910-1947 and undated</titleproper>
+            <titleproper>Guide to the Victor Robinson papers, 1910-1947 and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Robinson, Victor, 1886-1947</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Victor Robinson papers</unittitle>
-         <unitdate normal="1910/1947" type="inclusive" era="ce" calendar="gregorian">1910-1947 and undated</unitdate>
+         <unitdate normal="1910/1947" type="inclusive" era="ce" calendar="gregorian">1910-1947 and undated.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Victor Robinson papers, 1910-1947 and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Victor Robinson papers, 1910-1947 and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

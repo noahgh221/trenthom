@@ -9,7 +9,7 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Ricardus Sharpe Kissam document, 1800, Dec. 23. //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Ricardus Sharpe Kissam document, 1800, Dec. 23 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-kissamricardussharpedocument/">trent-kissamricardussharpedocument</eadid>
       <filedesc>
          <titlestmt>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Autograph document, signed. Receipt of payment by Judge Ogilvie to Kissam for medical attendance.</abstract>

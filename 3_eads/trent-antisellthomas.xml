@@ -9,7 +9,7 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Thomas Antisell letter, 1849, Jan. 26. //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Thomas Antisell letter, 1849, Jan. 26 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-antisellthomas/">trent-antisellthomas</eadid>
       <filedesc>
          <titlestmt>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Letter (ALS) acknowledges the receipt of $4.12 as balance of the proceeds arising from the delivery of lectures. Expresses gratitude for the opportunity to speak before a New York audience.</abstract>

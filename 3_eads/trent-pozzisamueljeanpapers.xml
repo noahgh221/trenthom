@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-pozzisamueljeanpapers/">trent-pozzisamueljeanpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Samuel Jean Pozzi papers, undated [between 1866 and 1918?]</titleproper>
+            <titleproper>Guide to the Samuel Jean Pozzi papers, undated [between 1866 and 1918?].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1866/1918"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">undated [between 1866 and 1918?]</unitdate>
+                   calendar="gregorian">undated [between 1866 and 1918?].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Samuel Jean Pozzi papers, undated [between 1866 and 1918?], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Samuel Jean Pozzi papers, undated [between 1866 and 1918?]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

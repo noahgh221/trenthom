@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-lattaignantgabrielcharlesde/">trent-lattaignantgabrielcharlesde</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Les Tronchinades, 18th century</titleproper>
+            <titleproper>Guide to the Les Tronchinades, 18th century.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -51,7 +51,7 @@
             <persname encodinganalog="100">Lattaignant, Gabriel-Charles de, 1697-1779.</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Les Tronchinades</unittitle>
-         <unitdate type="inclusive" era="ce" calendar="gregorian">18th century</unitdate>
+         <unitdate type="inclusive" era="ce" calendar="gregorian">18th century.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -60,7 +60,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Manuscript burlesque poem in unknown hand, whose title refers to 18th century French physician Theodore Tronchin,who became much reviled and caricatured during his time in Paris as darling of the French nobility.</abstract>
@@ -80,7 +80,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Les Tronchinades, 18th century, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Les Tronchinades, 18th century., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Stephen Paget papers, 1908 and undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-pagetstephenpapers/">trent-pagetstephenpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Stephen Paget papers, 1908 and undated</titleproper>
+            <titleproper>Guide to the Stephen Paget papers, 1908 and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Paget, Stephen, 1855-1926</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Stephen Paget papers</unittitle>
-         <unitdate normal="1908/1908" type="inclusive" era="ce" calendar="gregorian">1908 and undated</unitdate>
+         <unitdate normal="1908/1908" type="inclusive" era="ce" calendar="gregorian">1908 and undated.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Stephen Paget papers, 1908 and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Stephen Paget papers, 1908 and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

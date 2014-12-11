@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-bartelspaulletters/">trent-bartelspaulletters</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Paul Bartels Letters, 1905, Jun.-Oct, Berlin, to Dr. Pagel</titleproper>
+            <titleproper>Guide to the Paul Bartels Letters, 1905, Jun.-Oct., Berlin, to Dr. Pagel</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1905/1905"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">1905, Jun.-Oct</unitdate>
+                   calendar="gregorian">1905, Jun.-Oct.</unitdate>
          <langmaterial>
             <language langcode="ger"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Paul Bartels Letters, 1905, Jun.-Oct, Berlin, to Dr. Pagel, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Paul Bartels Letters, 1905, Jun.-Oct., Berlin, to Dr. Pagel, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

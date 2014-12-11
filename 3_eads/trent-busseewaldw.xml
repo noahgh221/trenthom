@@ -9,7 +9,7 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Ewald Busse manuscript, between 1942 and 1947. //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Ewald Busse manuscript, between 1942 and 1947 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-busseewaldw/">trent-busseewaldw</eadid>
       <filedesc>
          <titlestmt>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Busse's holograph translation of sections from Alois Eduard Kornmuller's "Einfuhrung in die klinische Elektrenkephalographie," whose focus is electroencephalography. Accompanied by an 11-page typescript of holograph translation. Both were received as part of Busse's gift of a copy of Kornmuller's book to the History of Medicine Collections. Acquired as part of the History of Medicine Collections at Duke University.</abstract>

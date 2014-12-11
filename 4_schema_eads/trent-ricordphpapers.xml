@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Ph. Ricord papers, undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-ricordphpapers/">trent-ricordphpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Ph. Ricord papers, undated</titleproper>
+            <titleproper>Guide to the Ph. Ricord papers, undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Ricord, Ph., 1800-1889</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Ph. Ricord papers</unittitle>
-         <unitdate normal="1800/1800" type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+         <unitdate normal="1800/1800" type="inclusive" era="ce" calendar="gregorian">undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Ph. Ricord papers, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Ph. Ricord papers, undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

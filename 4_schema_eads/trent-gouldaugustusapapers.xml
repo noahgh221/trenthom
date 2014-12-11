@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Augustus A. Gould papers, 1825-1851 and undated [bulk, 1825-1827]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-gouldaugustusapapers/">trent-gouldaugustusapapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Augustus A. Gould papers, 1825-1851 and undated [bulk, 1825-1827]</titleproper>
+            <titleproper>Guide to the Augustus A. Gould papers, 1825-1851 and undated [bulk, 1825-1827].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Gould, Augustus A. (Augustus Addison), 1805-1866</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Augustus A. Gould papers</unittitle>
-         <unitdate normal="1825/1851" type="inclusive" era="ce" calendar="gregorian">1825-1851 and undated [bulk, 1825-1827]</unitdate>
+         <unitdate normal="1825/1851" type="inclusive" era="ce" calendar="gregorian">1825-1851 and undated [bulk, 1825-1827].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Augustus A. Gould papers, 1825-1851 and undated [bulk, 1825-1827], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Augustus A. Gould papers, 1825-1851 and undated [bulk, 1825-1827]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

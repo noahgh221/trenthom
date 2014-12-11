@@ -9,7 +9,7 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Gerard Freiherr van Swieten note, 1765, Dec. 15. //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Gerard Freiherr van Swieten note, 1765, Dec. 15 //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-swietengerard/">trent-swietengerard</eadid>
       <filedesc>
          <titlestmt>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Reviews A.M. Salvini's Italian translation of Xenophon of Ephesus, "Di Senofonte Efesio degli Amori di Abrocome e d'Anzia", sent to the Empress Maria Theresa by the Chancellery of Hungary. Condemns the essay appended to the second edition of the volume, "Cicalata sopra una ceria curiosa statuetta", as "tres impudique". Note is evidence of Swieten's function as censor to the Empress' library. A typed transcript and an English translation are available.</abstract>

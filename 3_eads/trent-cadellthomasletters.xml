@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-cadellthomasletters/">trent-cadellthomasletters</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Thomas Cadell Letters, 1783-1817, and undated</titleproper>
+            <titleproper>Guide to the Thomas Cadell Letters, 1783-1817, and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1783/1817"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">1783-1817, and undated</unitdate>
+                   calendar="gregorian">1783-1817, and undated.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Thomas Cadell Letters, 1783-1817, and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Thomas Cadell Letters, 1783-1817, and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

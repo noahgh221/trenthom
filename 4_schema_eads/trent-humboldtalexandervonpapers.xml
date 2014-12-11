@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Alexander von Humboldt papers, 1816-1966 [bulk between 1816-1855] and undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-humboldtalexandervonpapers/">trent-humboldtalexandervonpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Alexander von Humboldt papers, 1816-1966 [bulk between 1816-1855] and undated</titleproper>
+            <titleproper>Guide to the Alexander von Humboldt papers, 1816-1966 [bulk between 1816-1855] and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Humboldt, Alexander von, 1769-1859</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Alexander von Humboldt papers</unittitle>
-         <unitdate normal="1816/1966" type="inclusive" era="ce" calendar="gregorian">1816-1966 [bulk between 1816-1855] and undated</unitdate>
+         <unitdate normal="1816/1966" type="inclusive" era="ce" calendar="gregorian">1816-1966 [bulk between 1816-1855] and undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Alexander von Humboldt papers, 1816-1966 [bulk between 1816-1855] and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Alexander von Humboldt papers, 1816-1966 [bulk between 1816-1855] and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

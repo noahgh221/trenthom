@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-broadbentwh/">trent-broadbentwh</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the William Henry Broadbent note, 1900, Sep, [London]</titleproper>
+            <titleproper>Guide to the William Henry Broadbent note, 1900, Sep., [London]</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1900/1900"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">1900, Sep</unitdate>
+                   calendar="gregorian">1900, Sep.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Holograph inscription, signed. Broadbent's compliments to Dr. H. Barton Jacobs, on the fly-leaf of a copy of the third edition of Broadbent's book on heart disease, presented to Jacobs. Attached is a note in Jacobs' hand.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>William Henry Broadbent note, 1900, Sep, [London], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>William Henry Broadbent note, 1900, Sep., [London], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

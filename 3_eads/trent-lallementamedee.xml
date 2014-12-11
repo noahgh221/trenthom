@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-lallementamedee/">trent-lallementamedee</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Note, undated</titleproper>
+            <titleproper>Guide to the Note, undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -51,7 +51,7 @@
             <persname encodinganalog="100">Lallement, Amedee.</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Note</unittitle>
-         <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+         <unitdate type="inclusive" era="ce" calendar="gregorian">undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -60,7 +60,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Reports that he will be unable to visit that evening.</abstract>
@@ -80,7 +80,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Note, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Note, undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <processinfo>
             <head>Processing Information</head>

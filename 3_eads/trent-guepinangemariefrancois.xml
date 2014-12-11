@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-guepinangemariefrancois/">trent-guepinangemariefrancois</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Ange Marie Francois Guepin Letter, undated [probably between 1825 and 1873]</titleproper>
+            <titleproper>Guide to the Ange Marie Francois Guepin Letter, undated [probably between 1825 and 1873].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1825/1873"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">undated [probably between 1825 and 1873]</unitdate>
+                   calendar="gregorian">undated [probably between 1825 and 1873].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS. Writes of family matters.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Ange Marie Francois Guepin Letter, undated [probably between 1825 and 1873], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Ange Marie Francois Guepin Letter, undated [probably between 1825 and 1873]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

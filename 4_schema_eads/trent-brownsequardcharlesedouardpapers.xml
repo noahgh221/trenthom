@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles-Edouard Brown-Sequard papers, 1871-1889, and undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-brownsequardcharlesedouardpapers/">trent-brownsequardcharlesedouardpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles-Edouard Brown-Sequard papers, 1871-1889, and undated</titleproper>
+            <titleproper>Guide to the Charles-Edouard Brown-Sequard papers, 1871-1889, and undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Brown-Sequard, Charles-Edouard, 1817-1894</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Charles-Edouard Brown-Sequard papers</unittitle>
-         <unitdate normal="1871/1889" type="inclusive" era="ce" calendar="gregorian">1871-1889, and undated</unitdate>
+         <unitdate normal="1871/1889" type="inclusive" era="ce" calendar="gregorian">1871-1889, and undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Charles-Edouard Brown-Sequard papers, 1871-1889, and undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Charles-Edouard Brown-Sequard papers, 1871-1889, and undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

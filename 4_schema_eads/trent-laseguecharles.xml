@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles Lasegue note, undated [between 1835 and 1883?]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-laseguecharles/">trent-laseguecharles</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles Lasegue note, undated [between 1835 and 1883?]</titleproper>
+            <titleproper>Guide to the Charles Lasegue note, undated [between 1835 and 1883?].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Lasegue, Charles, 1816-1883</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Charles Lasegue note</unittitle>
-         <unitdate normal="1835/1883" type="inclusive" era="ce" calendar="gregorian">undated [between 1835 and 1883?]</unitdate>
+         <unitdate normal="1835/1883" type="inclusive" era="ce" calendar="gregorian">undated [between 1835 and 1883?].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Informs addressee that a Dr. Morel, physician in chief at the Rouen Asylum, wishes to visit their patient, Leon Guibout.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Charles Lasegue note, undated [between 1835 and 1883?], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Charles Lasegue note, undated [between 1835 and 1883?]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

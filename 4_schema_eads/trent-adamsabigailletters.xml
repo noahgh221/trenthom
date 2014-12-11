@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Abigail Adams letters, 1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-adamsabigailletters/">trent-adamsabigailletters</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Abigail Adams Letters, 1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts</titleproper>
+            <titleproper>Guide to the Abigail Adams Letters, 1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Adams, Abigail, 1744-1818</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Abigail Adams letters</unittitle>
-         <unitdate normal="1797/1798" type="inclusive" era="ce" calendar="gregorian">1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts</unitdate>
+         <unitdate normal="1797/1798" type="inclusive" era="ce" calendar="gregorian">1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Abigail Adams Letters, 1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Abigail Adams Letters, 1797-1798, Philadelphia, Pennsylvania, to Mrs. Esther Black, Quincy, Massachusetts., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

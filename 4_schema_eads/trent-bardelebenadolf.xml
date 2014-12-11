@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Adolf Bardeleben letter, 1853, Jun. 11, Greifswald, Germany. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-bardelebenadolf/">trent-bardelebenadolf</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Adolf Bardeleben Letter, 1853, Jun. 11, Greifswald, Germany</titleproper>
+            <titleproper>Guide to the Adolf Bardeleben Letter, 1853, Jun. 11, Greifswald, Germany.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Bardeleben, Adolf, 1819-1895</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Adolf Bardeleben letter</unittitle>
-         <unitdate normal="1853/1853" type="inclusive" era="ce" calendar="gregorian">1853, Jun. 11, Greifswald, Germany</unitdate>
+         <unitdate normal="1853/1853" type="inclusive" era="ce" calendar="gregorian">1853, Jun. 11, Greifswald, Germany.</unitdate>
          <langmaterial>
             <language langcode="ger"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: German</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Letter (ALS) concerning a post-mortem examination in a case of cancer of the brain.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Adolf Bardeleben Letter, 1853, Jun. 11, Greifswald, Germany, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Adolf Bardeleben Letter, 1853, Jun. 11, Greifswald, Germany., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-petitionbythecitizensofcripplecreekvirginia/">trent-petitionbythecitizensofcripplecreekvirginia</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Petition by the citizens of Cripple Creek, Virginia, July 15th, 1864, to Jeff Davis, President of the Confederacy</titleproper>
+            <titleproper>Guide to the Petition by the citizens of Cripple Creek, Virginia, July 15th, 1864, to Jeff Davis, President of the Confederacy.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -51,7 +51,7 @@
          <unitdate normal="1864/1864"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">July 15th, 1864, to Jeff Davis, President of the Confederacy</unitdate>
+                   calendar="gregorian">July 15th, 1864, to Jeff Davis, President of the Confederacy.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -60,7 +60,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Petition addressed "To his Excellency--The President of the Confederate States of America" from the citizens of Cripple Creek, Wythe County, Va. requesting the exemption of Dr. C.C. Campbell, the family physician for the area, to be exempted, detailed, and left in the area.</abstract>
@@ -80,7 +80,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Petition by the citizens of Cripple Creek, Virginia, July 15th, 1864, to Jeff Davis, President of the Confederacy, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Petition by the citizens of Cripple Creek, Virginia, July 15th, 1864, to Jeff Davis, President of the Confederacy., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <processinfo>
             <head>Processing Information</head>

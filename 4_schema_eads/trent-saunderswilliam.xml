@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::William Saunders note, undated, [between 1800-1817]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-saunderswilliam/">trent-saunderswilliam</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the William Saunders note, undated, [between 1800-1817]</titleproper>
+            <titleproper>Guide to the William Saunders note, undated, [between 1800-1817].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Saunders, William, 1743-1817</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">William Saunders note</unittitle>
-         <unitdate normal="1800/1817" type="inclusive" era="ce" calendar="gregorian">undated, [between 1800-1817]</unitdate>
+         <unitdate normal="1800/1817" type="inclusive" era="ce" calendar="gregorian">undated, [between 1800-1817].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Requests that bearer be given a copy of his work on mineral waters, as well as his book on the liver. Note is attached to short biographical sketch.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>William Saunders note, undated, [between 1800-1817], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>William Saunders note, undated, [between 1800-1817]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

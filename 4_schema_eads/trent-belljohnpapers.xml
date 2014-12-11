@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::John Bell papers, 1831, Dec. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-belljohnpapers/">trent-belljohnpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the John Bell papers, 1831, Dec, Wolfsbrunnen Cottage, Sur le Neckar, [Germany], to Dr. Chelius of Heidelberg, Germany</titleproper>
+            <titleproper>Guide to the John Bell papers, 1831, Dec., Wolfsbrunnen Cottage, Sur le Neckar, [Germany], to Dr. Chelius of Heidelberg, Germany</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Bell, John, 1796-1872</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">John Bell papers, Wolfsbrunnen Cottage, Sur le Neckar, [Germany], to Dr. Chelius of Heidelberg, Germany</unittitle>
-         <unitdate normal="1831/1831" type="inclusive" era="ce" calendar="gregorian">1831, Dec</unitdate>
+         <unitdate normal="1831/1831" type="inclusive" era="ce" calendar="gregorian">1831, Dec.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>John Bell papers, 1831, Dec, Wolfsbrunnen Cottage, Sur le Neckar, [Germany], to Dr. Chelius of Heidelberg, Germany, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>John Bell papers, 1831, Dec., Wolfsbrunnen Cottage, Sur le Neckar, [Germany], to Dr. Chelius of Heidelberg, Germany, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-terrillono/">trent-terrillono</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the O. Terrillon note, undated [before 1895]</titleproper>
+            <titleproper>Guide to the O. Terrillon note, undated [before 1895].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1800/1895"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">undated [before 1895]</unitdate>
+                   calendar="gregorian">undated [before 1895].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Sets a time to meet the next day.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>O. Terrillon note, undated [before 1895], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>O. Terrillon note, undated [before 1895]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

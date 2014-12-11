@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-fereollouisfelixhenrisecond/">trent-fereollouisfelixhenrisecond</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Louis Felix Henri Second Fereol Letter, undated</titleproper>
+            <titleproper>Guide to the Louis Felix Henri Second Fereol Letter, undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -51,7 +51,7 @@
             <persname encodinganalog="100">Fereol, Louis Felix Henri Second, -1891</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Louis Felix Henri Second Fereol letter</unittitle>
-         <unitdate type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+         <unitdate type="inclusive" era="ce" calendar="gregorian">undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -60,7 +60,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS.</abstract>
@@ -80,7 +80,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Louis Felix Henri Second Fereol Letter, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Louis Felix Henri Second Fereol Letter, undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

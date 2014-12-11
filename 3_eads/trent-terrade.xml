@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-terrade/">trent-terrade</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Terrade note, Feb. [1803]</titleproper>
+            <titleproper>Guide to the Terrade note, Feb. [1803].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1803/1803"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">Feb. [1803]</unitdate>
+                   calendar="gregorian">Feb. [1803].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Terrade note, Feb. [1803], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Terrade note, Feb. [1803]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

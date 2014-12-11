@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Raphael Bienvenu Sabatier note, undated [between 1750 and 1811?]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-sabatierraphaelbienvenu/">trent-sabatierraphaelbienvenu</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Raphael Bienvenu Sabatier note, undated [between 1750 and 1811?]</titleproper>
+            <titleproper>Guide to the Raphael Bienvenu Sabatier note, undated [between 1750 and 1811?].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Sabatier, Raphael Bienvenu, 1732-1811</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Raphael Bienvenu Sabatier note</unittitle>
-         <unitdate normal="1750/1811" type="inclusive" era="ce" calendar="gregorian">undated [between 1750 and 1811?]</unitdate>
+         <unitdate normal="1750/1811" type="inclusive" era="ce" calendar="gregorian">undated [between 1750 and 1811?].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Raphael Bienvenu Sabatier note, undated [between 1750 and 1811?], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Raphael Bienvenu Sabatier note, undated [between 1750 and 1811?]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

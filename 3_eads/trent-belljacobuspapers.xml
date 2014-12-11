@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-belljacobuspapers/">trent-belljacobuspapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Jacobus Bell papers, 1840-1859, undated</titleproper>
+            <titleproper>Guide to the Jacobus Bell papers, 1840-1859, undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1840/1859"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">1840-1859, undated</unitdate>
+                   calendar="gregorian">1840-1859, undated.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Jacobus Bell papers, 1840-1859, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Jacobus Bell papers, 1840-1859, undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

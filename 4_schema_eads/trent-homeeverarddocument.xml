@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Sir Everard Home document, 1803, June 1. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-homeeverarddocument/">trent-homeeverarddocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Sir Everard Home document, 1803, June 1</titleproper>
+            <titleproper>Guide to the Sir Everard Home document, 1803, June 1.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Home, Everard, Sir, 1756-1832</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Sir Everard Home document</unittitle>
-         <unitdate normal="1803/1803" type="inclusive" era="ce" calendar="gregorian">1803, June 1</unitdate>
+         <unitdate normal="1803/1803" type="inclusive" era="ce" calendar="gregorian">1803, June 1.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Autograph document, signed. Certifies that Lieutenant Colonel Grace returned from Minorca in ill health and thus incapable of military service.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Sir Everard Home document, 1803, June 1, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Sir Everard Home document, 1803, June 1., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

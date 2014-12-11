@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Athanase-Leon Gosselin letter, 1854, June 9. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-gosselinathanaseleon/">trent-gosselinathanaseleon</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Athanase-Leon Gosselin Letter, 1854, June 9</titleproper>
+            <titleproper>Guide to the Athanase-Leon Gosselin Letter, 1854, June 9.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Gosselin, Athanase-Leon, 1815-1887</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Athanase-Leon Gosselin letter</unittitle>
-         <unitdate normal="1854/1854" type="inclusive" era="ce" calendar="gregorian">1854, June 9</unitdate>
+         <unitdate normal="1854/1854" type="inclusive" era="ce" calendar="gregorian">1854, June 9.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS. Informs recipient of his brother's promotion and thanks him for his efforts.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Athanase-Leon Gosselin Letter, 1854, June 9, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Athanase-Leon Gosselin Letter, 1854, June 9., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

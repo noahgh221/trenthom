@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis, undated. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-desaultpj/">trent-desaultpj</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis, undated</titleproper>
+            <titleproper>Guide to the Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis, undated.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Desault, P.-J. (Pierre-Joseph), 1744-1795</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis</unittitle>
-         <unitdate normal="1744/1795" type="inclusive" era="ce" calendar="gregorian">undated</unitdate>
+         <unitdate normal="1744/1795" type="inclusive" era="ce" calendar="gregorian">undated.</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Holograph signed. Typed English translation available. Desault concludes that section of the pubis is not a dangerous operation and that in certain cases it is preferable to the Cesarean section.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis, undated, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Pierre-Joseph Desault rapport des experiences de M. Cheveuil sur la section de la Symphise du pubis, undated., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

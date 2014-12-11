@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Germain See papers, undated, [after 1840]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-seegermainpapers/">trent-seegermainpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Germain See papers, undated, [after 1840]</titleproper>
+            <titleproper>Guide to the Germain See papers, undated, [after 1840].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">See, Germain, 1818-1896</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Germain See papers</unittitle>
-         <unitdate normal="1841/1896" type="inclusive" era="ce" calendar="gregorian">undated, [after 1840]</unitdate>
+         <unitdate normal="1841/1896" type="inclusive" era="ce" calendar="gregorian">undated, [after 1840].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Germain See papers, undated, [after 1840], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Germain See papers, undated, [after 1840]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

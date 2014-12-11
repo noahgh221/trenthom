@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Sir Ronald Ross papers, 1923-1957, [bulk 1930-1932]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-rossronaldpapers/">trent-rossronaldpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Sir Ronald Ross papers, 1923-1957, [bulk 1930-1932]</titleproper>
+            <titleproper>Guide to the Sir Ronald Ross papers, 1923-1957, [bulk 1930-1932].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Ross, Ronald, Sir, 1857-1932</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Sir Ronald Ross papers</unittitle>
-         <unitdate normal="1930/1932" type="inclusive" era="ce" calendar="gregorian">1923-1957, [bulk 1930-1932]</unitdate>
+         <unitdate normal="1930/1932" type="inclusive" era="ce" calendar="gregorian">1923-1957, [bulk 1930-1932].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Sir Ronald Ross papers, 1923-1957, [bulk 1930-1932], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Sir Ronald Ross papers, 1923-1957, [bulk 1930-1932]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

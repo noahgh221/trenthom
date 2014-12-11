@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-northelisha/">trent-northelisha</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Elisha North manuscript, [not before 1811]</titleproper>
+            <titleproper>Guide to the Elisha North manuscript, [not before 1811].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1811/1843"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">[not before 1811]</unitdate>
+                   calendar="gregorian">[not before 1811].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Manuscript pages from a proposed, but never published second and revised edition of North's book, "A treatise on a malignant epidemic, commonly called spotted fever". Available are photographs of the title page of North's own copy of the book, which bears marginal notes in his hand. Reader is referred to the article by Pleadwell, "A new view of Elisha North ... ", in Annals of medical history, 6 (1924). The manuscript and North's copy form the basis of this essay.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Elisha North manuscript, [not before 1811], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Elisha North manuscript, [not before 1811]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

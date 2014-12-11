@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::J. Roberts letter, 1917, Mar. 9. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-robertsj/">trent-robertsj</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the J. Roberts Letter, 1917, Mar. 9</titleproper>
+            <titleproper>Guide to the J. Roberts Letter, 1917, Mar. 9.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Roberts, J.</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">J. Roberts letter</unittitle>
-         <unitdate normal="1917/1917" type="inclusive" era="ce" calendar="gregorian">1917, Mar. 9</unitdate>
+         <unitdate normal="1917/1917" type="inclusive" era="ce" calendar="gregorian">1917, Mar. 9.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: English</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS. Discusses the relative merits of Cassels' and the salt pack methods in the treatment of fractures.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>J. Roberts Letter, 1917, Mar. 9, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>J. Roberts Letter, 1917, Mar. 9., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

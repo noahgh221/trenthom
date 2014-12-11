@@ -158,8 +158,25 @@
 </xsl:variable>
 
 <!--Collection Date Expression Variable , remove trailing semicolon -->
-<xsl:variable name="CollectionDate" select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield [@code='f'], ':$',''))"/>
+<xsl:variable name="CollectionDate1" select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield [@code='f'], ':$',''))"/>
 
+<!-- Collection Date - remove terminal period unless ends in two word characters (e.g. Apr.) -->
+<xsl:variable name="CollectionDate">
+  <xsl:choose>
+    <xsl:when test="matches($CollectionDate1,',$')">
+      <xsl:value-of select="replace($CollectionDate1,',$','')"/>
+    </xsl:when>
+    <xsl:when test="matches($CollectionDate1,'\d\d\.$')">
+      <xsl:value-of select="replace($CollectionDate1,'\.$','')"/>
+    </xsl:when>  
+    <xsl:when test="matches($CollectionDate1,'\w\w\.$')">
+      <xsl:value-of select="$CollectionDate1"/>
+    </xsl:when>           
+    <xsl:otherwise>
+      <xsl:value-of select="$CollectionDate1"/>
+    </xsl:otherwise>
+  </xsl:choose>
+</xsl:variable>
 
 
 <!-- BEGIN EAD DOCUMENT +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
@@ -173,7 +190,7 @@
 
 <filedesc>
 <titlestmt>
-  <titleproper>Guide to the <xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="replace($CollectionDate,'\.$','')"/>
+  <titleproper>Guide to the <xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="$CollectionDate"/>
   <xsl:if test="marc:datafield[@tag='245']/marc:subfield[@code='b']">
     <xsl:text>, </xsl:text>
     <xsl:value-of select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield[@code='b'],'\.$',''))"></xsl:value-of>
@@ -284,33 +301,13 @@
        <!-- Exclude normal attribute on unitdate when uuuu dates present -->
        <xsl:when test="$CollectionNormalEndDate='uuuu' or contains($CollectionNormalStartDate,'?')"> 
        <unitdate type="inclusive" era="ce" calendar="gregorian">
-         <xsl:choose>
-           <xsl:when test="matches($CollectionDate,',$')">
-             <xsl:value-of select="replace($CollectionDate,',$','')"/>
-           </xsl:when>
-           <xsl:when test="matches($CollectionDate,'\.$')">
-             <xsl:value-of select="replace($CollectionDate,'\.$','')"/>
-           </xsl:when>  
-           <xsl:otherwise>
-             <xsl:value-of select="$CollectionDate"/>
-           </xsl:otherwise>
-         </xsl:choose>
+       <xsl:value-of select="$CollectionDate"/>
        </unitdate>
        </xsl:when>
        
        <xsl:otherwise>
          <unitdate normal="{$CollectionNormalStartDate}/{$CollectionNormalEndDate}" type="inclusive" era="ce" calendar="gregorian">
-         <xsl:choose>
-         <xsl:when test="matches($CollectionDate,',$')">
-          <xsl:value-of select="replace($CollectionDate,',$','')"/>
-         </xsl:when>
-         <xsl:when test="matches($CollectionDate,'\.$')">
-           <xsl:value-of select="replace($CollectionDate,'\.$','')"/>
-         </xsl:when>  
-         <xsl:otherwise>
            <xsl:value-of select="$CollectionDate"/>
-         </xsl:otherwise>
-          </xsl:choose>
        </unitdate>
        </xsl:otherwise>
      </xsl:choose> 
@@ -356,11 +353,17 @@
     </physdesc>
   </xsl:when>
   
-<xsl:when test="contains($extent_string, 'item') and not(contains($extent_string, 'lin'))">
+<xsl:when test="contains($extent_string, 'items') and not(contains($extent_string, 'lin'))">
   <physdesc>
-    <extent><xsl:value-of select="normalize-space(translate(substring-before($extent_string,'item'), ',',''))"/><xsl:text> items</xsl:text></extent>
+    <extent><xsl:value-of select="normalize-space(translate(substring-before($extent_string,'items'), ',',''))"/><xsl:text> items</xsl:text></extent>
   </physdesc>
 </xsl:when>
+  
+  <xsl:when test="contains($extent_string, 'item') and not(contains($extent_string, 'lin')) and not(contains($extent_string, 'items'))">
+    <physdesc>
+      <extent><xsl:value-of select="normalize-space(translate(substring-before($extent_string,'item'), ',',''))"/><xsl:text> item</xsl:text></extent>
+    </physdesc>
+  </xsl:when>
 
   
 <xsl:otherwise>
@@ -471,7 +474,7 @@
 
           <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p><xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="replace($CollectionDate,'\.$','')"/>
+            <p><xsl:value-of select="replace($CollectionTitle,'letter','Letter')"/><xsl:text> </xsl:text><xsl:value-of select="$CollectionDate"/>
               <xsl:if test="marc:datafield[@tag='245']/marc:subfield[@code='b']">
                 <xsl:text>, </xsl:text>
                 <xsl:value-of select="normalize-space(replace(marc:datafield[@tag='245']/marc:subfield[@code='b'],'\.$',''))"></xsl:value-of>

@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles Francois S. Giraudy letter, undated [probably between 1800 and 1848]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-giraudycharlesfrancoiss/">trent-giraudycharlesfrancoiss</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles Francois S. Giraudy Letter, undated [probably between 1800 and 1848]</titleproper>
+            <titleproper>Guide to the Charles Francois S. Giraudy Letter, undated [probably between 1800 and 1848].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Giraudy, Charles Francois S. (Charles Francois Simon), 1770-1848</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Charles Francois S. Giraudy letter</unittitle>
-         <unitdate normal="1800/1848" type="inclusive" era="ce" calendar="gregorian">undated [probably between 1800 and 1848]</unitdate>
+         <unitdate normal="1800/1848" type="inclusive" era="ce" calendar="gregorian">undated [probably between 1800 and 1848].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ALS relating medical notes and observations.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Charles Francois S. Giraudy Letter, undated [probably between 1800 and 1848], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Charles Francois S. Giraudy Letter, undated [probably between 1800 and 1848]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

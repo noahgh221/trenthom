@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Olivier Pierre document, [1917]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-pierreolivierdocument/">trent-pierreolivierdocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Olivier Pierre document, [1917]</titleproper>
+            <titleproper>Guide to the Olivier Pierre document, [1917].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Pierre, Olivier.</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Olivier Pierre document</unittitle>
-         <unitdate normal="1917/1917" type="inclusive" era="ce" calendar="gregorian">[1917]</unitdate>
+         <unitdate normal="1917/1917" type="inclusive" era="ce" calendar="gregorian">[1917].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Typed document. Physician's record of Pierre's stay as a patient at the Centre Neurologique, Place de Rouen, for observation and treatment of a nervous disorder.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Olivier Pierre document, [1917], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Olivier Pierre document, [1917]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

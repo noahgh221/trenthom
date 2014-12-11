@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-reedcharlesbailey/">trent-reedcharlesbailey</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles Bailey Reed correspondence, 1918-1921 and undated, [bulk 1918, May-Nov.]</titleproper>
+            <titleproper>Guide to the Charles Bailey Reed correspondence, 1918-1921 and undated, [bulk 1918, May-Nov.].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1918/1921"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">1918-1921 and undated, [bulk 1918, May-Nov.]</unitdate>
+                   calendar="gregorian">1918-1921 and undated, [bulk 1918, May-Nov.].</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Charles Bailey Reed correspondence, 1918-1921 and undated, [bulk 1918, May-Nov.], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Charles Bailey Reed correspondence, 1918-1921 and undated, [bulk 1918, May-Nov.]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

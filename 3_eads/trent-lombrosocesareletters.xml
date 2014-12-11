@@ -9,11 +9,11 @@
               repositoryencoding="iso15511">
       <eadid countrycode="US"
              mainagencycode="US-NcD"
-             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Cesare Lombroso letters, 1878-1908, undated, //EN"
+             publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Cesare Lombroso letters, 1878-1908, undated //EN"
              url="http://library.duke.edu/rubenstein/findingaids/trent-lombrosocesareletters/">trent-lombrosocesareletters</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Cesare Lombroso Letters, 1878-1908, undated,, to Prof. Riccardi</titleproper>
+            <titleproper>Guide to the Cesare Lombroso Letters, 1878-1908, undated, to Prof. Riccardi</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Cesare Lombroso Letters, 1878-1908, undated,, to Prof. Riccardi, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Cesare Lombroso Letters, 1878-1908, undated, to Prof. Riccardi, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

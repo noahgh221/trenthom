@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-davisricharda/">trent-davisricharda</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Richard A. Davis Letter to Dr. Robert H. Wilkins, 31 January 1994, Philadelphia</titleproper>
+            <titleproper>Guide to the Richard A. Davis Letter to Dr. Robert H. Wilkins, 31 January 1994, Philadelphia.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1994/1994"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">31 January 1994, Philadelphia</unitdate>
+                   calendar="gregorian">31 January 1994, Philadelphia.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
          </langmaterial>
@@ -82,7 +82,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Richard A. Davis Letter to Dr. Robert H. Wilkins, 31 January 1994, Philadelphia, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Richard A. Davis Letter to Dr. Robert H. Wilkins, 31 January 1994, Philadelphia., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <processinfo>
             <head>Processing Information</head>

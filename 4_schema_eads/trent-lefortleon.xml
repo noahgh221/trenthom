@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Leon Clement le Fort note, undated [between 1850 and 1893?]. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-lefortleon/">trent-lefortleon</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Leon Clement le Fort note, undated [between 1850 and 1893?]</titleproper>
+            <titleproper>Guide to the Leon Clement le Fort note, undated [between 1850 and 1893?].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -42,7 +42,7 @@
             <persname encodinganalog="100">Le Fort, Leon (Leon Clement), 1829-1893</persname>
          </origination>
          <unittitle label="Title" encodinganalog="245">Leon Clement le Fort note</unittitle>
-         <unitdate normal="1850/1893" type="inclusive" era="ce" calendar="gregorian">undated [between 1850 and 1893?]</unitdate>
+         <unitdate normal="1850/1893" type="inclusive" era="ce" calendar="gregorian">undated [between 1850 and 1893?].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -51,7 +51,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">ANS. Asks addressee to bring his "memoire" to the evening's gathering.</abstract>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Leon Clement le Fort note, undated [between 1850 and 1893?], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Leon Clement le Fort note, undated [between 1850 and 1893?]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

@@ -13,7 +13,7 @@
              url="http://library.duke.edu/rubenstein/findingaids/trent-thomassinjeanfrancois/">trent-thomassinjeanfrancois</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Jean Francois Thomassin certificate, [Mar. 1796]</titleproper>
+            <titleproper>Guide to the Jean Francois Thomassin certificate, [Mar. 1796].</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -54,7 +54,7 @@
          <unitdate normal="1796/1796"
                    type="inclusive"
                    era="ce"
-                   calendar="gregorian">[Mar. 1796]</unitdate>
+                   calendar="gregorian">[Mar. 1796].</unitdate>
          <langmaterial>
             <language langcode="fre"/>
          </langmaterial>
@@ -63,7 +63,7 @@
             <p>Language: French</p>
          </note>
          <physdesc>
-            <extent>1 items</extent>
+            <extent>1 item</extent>
          </physdesc>
          <physloc label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
          <abstract label="Abstract">Certifies Thomassin as Surgeon in Chief with the Army of the Rhine and Moselle. Signed by members of the "Conseil de Sante", including J.F. Coste, P. Bayen, and N. Saucerotte.</abstract>
@@ -83,7 +83,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Jean Francois Thomassin certificate, [Mar. 1796], David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Jean Francois Thomassin certificate, [Mar. 1796]., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>
