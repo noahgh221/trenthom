@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Charles Russell document, 1763, Feb. 18 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-russellcharlesdocument/">trent-russellcharlesdocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Charles Russell document, 1763, Feb. 18, Charlestown, Mass</titleproper>
+            <titleproper>Guide to the Charles Russell document, 1763, Feb. 18, Charlestown, Mass.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Russell, Charles.</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Charles Russell document, Charlestown, Mass</unittitle>
+         <unittitle label="Title" encodinganalog="245">Charles Russell document, Charlestown, Mass.</unittitle>
          <unitdate normal="1763/1763" type="inclusive" era="ce" calendar="gregorian">1763, Feb. 18</unitdate>
          <langmaterial>
             <language langcode="eng"/>

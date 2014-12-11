@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::William Hyde document, 1805, June 10 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-hydewilliamdocument/">trent-hydewilliamdocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the William Hyde document, 1805, June 10, New London, Conn</titleproper>
+            <titleproper>Guide to the William Hyde document, 1805, June 10, New London, Conn.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Hyde, William.</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">William Hyde document, New London, Conn</unittitle>
+         <unittitle label="Title" encodinganalog="245">William Hyde document, New London, Conn.</unittitle>
          <unitdate normal="1805/1805" type="inclusive" era="ce" calendar="gregorian">1805, June 10</unitdate>
          <langmaterial>
             <language langcode="eng"/>

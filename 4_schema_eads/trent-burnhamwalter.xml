@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Walter Burnham letter, 1882, May 11 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-burnhamwalter/">trent-burnhamwalter</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Walter Burnham Letter, 1882, May 11, Lowell, Mass</titleproper>
+            <titleproper>Guide to the Walter Burnham Letter, 1882, May 11, Lowell, Mass.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Burnham, Walter, 1808-1883</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Walter Burnham letter, Lowell, Mass</unittitle>
+         <unittitle label="Title" encodinganalog="245">Walter Burnham letter, Lowell, Mass.</unittitle>
          <unitdate normal="1882/1882" type="inclusive" era="ce" calendar="gregorian">1882, May 11</unitdate>
          <langmaterial>
             <language langcode="eng"/>

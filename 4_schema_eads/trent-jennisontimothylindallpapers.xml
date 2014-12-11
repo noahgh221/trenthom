@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Timothy Lindall Jennison papers, 1803-1832 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-jennisontimothylindallpapers/">trent-jennisontimothylindallpapers</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Timothy Lindall Jennison papers, 1803-1832, Cambridge, Mass</titleproper>
+            <titleproper>Guide to the Timothy Lindall Jennison papers, 1803-1832, Cambridge, Mass.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Jennison, Timothy Lindall, 1761-1845</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Timothy Lindall Jennison papers, Cambridge, Mass</unittitle>
+         <unittitle label="Title" encodinganalog="245">Timothy Lindall Jennison papers, Cambridge, Mass.</unittitle>
          <unitdate normal="1803/1832" type="inclusive" era="ce" calendar="gregorian">1803-1832</unitdate>
          <langmaterial>
             <language langcode="eng"/>

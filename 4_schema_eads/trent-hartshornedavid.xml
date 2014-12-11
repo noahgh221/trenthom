@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::David Hartshorne deed, 1720, Aug. 5 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-hartshornedavid/">trent-hartshornedavid</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the David Hartshorne deed, 1720, Aug. 5, Norwich, Conn</titleproper>
+            <titleproper>Guide to the David Hartshorne deed, 1720, Aug. 5, Norwich, Conn.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Hartshorne, David.</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">David Hartshorne deed, Norwich, Conn</unittitle>
+         <unittitle label="Title" encodinganalog="245">David Hartshorne deed, Norwich, Conn.</unittitle>
          <unitdate normal="1720/1720" type="inclusive" era="ce" calendar="gregorian">1720, Aug. 5</unitdate>
          <langmaterial>
             <language langcode="eng"/>

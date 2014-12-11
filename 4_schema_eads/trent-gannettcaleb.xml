@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Caleb Gannett letter, 1781, Apr. 20 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-gannettcaleb/">trent-gannettcaleb</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Caleb Gannett Letter, 1781, Apr. 20, Bridgewater, Mass., to Cotton Tufts, Esq</titleproper>
+            <titleproper>Guide to the Caleb Gannett Letter, 1781, Apr. 20, Bridgewater, Mass., to Cotton Tufts, Esq.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Gannett, Caleb, 1745-1818</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Caleb Gannett letter, Bridgewater, Mass., to Cotton Tufts, Esq</unittitle>
+         <unittitle label="Title" encodinganalog="245">Caleb Gannett letter, Bridgewater, Mass., to Cotton Tufts, Esq.</unittitle>
          <unitdate normal="1781/1781" type="inclusive" era="ce" calendar="gregorian">1781, Apr. 20</unitdate>
          <langmaterial>
             <language langcode="eng"/>
@@ -71,7 +71,7 @@
          </userestrict>
          <prefercite encodinganalog="524">
             <head>Preferred Citation</head>
-            <p>Caleb Gannett Letter, 1781, Apr. 20, Bridgewater, Mass., to Cotton Tufts, Esq, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+            <p>Caleb Gannett Letter, 1781, Apr. 20, Bridgewater, Mass., to Cotton Tufts, Esq., David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
          </prefercite>
          <acqinfo encodinganalog="541">
             <head>Provenance</head>

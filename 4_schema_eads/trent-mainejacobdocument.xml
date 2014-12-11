@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Jacob Maine document, 1797, Feb. 7 //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-mainejacobdocument/">trent-mainejacobdocument</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Jacob Maine document, 1797, Feb. 7, Killingsworth, Conn</titleproper>
+            <titleproper>Guide to the Jacob Maine document, 1797, Feb. 7, Killingsworth, Conn.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Maine, Jacob.</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Jacob Maine document, Killingsworth, Conn</unittitle>
+         <unittitle label="Title" encodinganalog="245">Jacob Maine document, Killingsworth, Conn.</unittitle>
          <unitdate normal="1797/1797" type="inclusive" era="ce" calendar="gregorian">1797, Feb. 7</unitdate>
          <langmaterial>
             <language langcode="eng"/>

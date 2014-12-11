@@ -4,7 +4,7 @@
       <eadid countrycode="US" mainagencycode="US-NcD" publicid="-//David M. Rubenstein Rare Book &amp; Manuscript Library//TEXT (US::NcD::Dudley Woodbridge letter, 1770, Apr. //EN" url="http://library.duke.edu/rubenstein/findingaids/trent-woodbridgedudley/">trent-woodbridgedudley</eadid>
       <filedesc>
          <titlestmt>
-            <titleproper>Guide to the Dudley Woodbridge Letter, 1770, Apr., Groton, Mass., to Dudley Woodbridge, Norwich, Conn</titleproper>
+            <titleproper>Guide to the Dudley Woodbridge Letter, 1770, Apr., Groton, Mass., to Dudley Woodbridge, Norwich, Conn.</titleproper>
             <author>Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
          </titlestmt>
          <publicationstmt>
@@ -41,7 +41,7 @@
          <origination label="Creator">
             <persname encodinganalog="100">Woodbridge, Dudley.</persname>
          </origination>
-         <unittitle label="Title" encodinganalog="245">Dudley Woodbridge letter, Groton, Mass., to Dudley Woodbridge, Norwich, Conn</unittitle>
+         <unittitle label="Title" encodinganalog="245">Dudley Woodbridge letter, Groton, Mass., to Dudley Woodbridge, Norwich, Conn.</unittitle>
          <unitdate normal="1770/1770" type="inclusive" era="ce" calendar="gregorian">1770, Apr.</unitdate>
          <langmaterial>
             <language langcode="eng"/>
