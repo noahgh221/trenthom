@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ead xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <eadheader findaidstatus="Published" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-NcD" url="http://library.duke.edu/rubenstein/findingaids/trent-curtishholbrook/">trent-curtishholbrook</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to the H. Holbrook Curtis Letter, 1886, June 9, New York, New York, to Mr. Field, Boston Museum
+                    <num>RL.10381</num>
+                </titleproper>
+                <author>Finding aid prepared by Processed by: Rubenstein Staff; finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>David M. Rubenstein Rare Book &amp; Manuscript Library</publisher>
+                <address>
+                    <addressline>103 Perkins Library, Duke University</addressline>
+                    <addressline>Durham, NC, 27708-0185</addressline>
+                    <addressline>919-660-5822</addressline>
+                    <addressline>special-collections@duke.edu</addressline>
+                </address>
+                <date>2014</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>Aleph Number: 
+                        <num type="aleph">002133843</num></p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-12-29T13:24-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>H. Holbrook Curtis letter, New York, New York, to Mr. Field, Boston Museum</unittitle>
+            <unitid>RL.10381</unitid>
+            <repository>
+                <corpname>David M. Rubenstein Rare Book &amp; Manuscript Library</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 item</extent>
+            </physdesc>
+            <unitdate normal="1886/1886">1886, June 9</unitdate>
+            <physloc id="ref3" label="Location">For current information on the location of these materials, please consult the Library's online catalog.</physloc>
+            <abstract id="ref4" label="Abstract">ALS. Certifies that a Miss Alice Vincent will not be able to sing due to "flayed vocal cords."</abstract>
+            <langmaterial id="ref1" label="Language of Materials note">Materials in English</langmaterial>
+            <origination label="creator">
+                <persname source="ingest">Curtis, H. Holbrook (Henry Holbrook), 1856-1920</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref5">
+            <head>Access Restrictions</head>
+            <p>Collection is open for research.</p>
+            <p>Researchers must register and agree to copyright and privacy laws before using this collection.</p>
+            <p>All or portions of this collection may be housed off-site in Duke University's Library Service Center. The library may require up to 48 hours to retrieve these materials for research use.</p>
+            <p>Please contact Research Services staff before visiting the Rubenstein to use this collection.</p>
+        </accessrestrict>
+        <userestrict id="ref6">
+            <head>Use Restrictions</head>
+            <p>The copyright interests in this collection have not been transferred to Duke University. For more information, consult the copyright section of the Regulations and Procedures of the David M. Rubenstein Rare Book &amp; Manuscript Library.</p>
+        </userestrict>
+        <prefercite id="ref7">
+            <head>Preferred Citation</head>
+            <p>H. Holbrook Curtis Letter, 1886, June 9, New York, New York, to Mr. Field, Boston Museum, David M. Rubenstein Rare Book &amp; Manuscript Library, Duke University.</p>
+        </prefercite>
+        <acqinfo id="ref8">
+            <head>Provenance</head>
+            <p>Source unknown</p>
+        </acqinfo>
+        <processinfo id="ref9">
+            <head>Processing Information</head>
+            <p>Processed by: Rubenstein Staff</p>
+            <p>Finding aid derived from MARC record using DukeMARC2EAD-HOMproject.xsl, December 2014</p>
+        </processinfo>
+        <bioghist id="ref10">
+            <head>Historical Note</head>
+            <p>Laryngologist of New York.</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Collection Overview</head>
+            <p>ALS. Certifies that a Miss Alice Vincent will not be able to sing due to "flayed vocal cords."</p>
+        </scopecontent>
+        <odd id="ref12">
+            <head>General note</head>
+            <p>Forms part of the Trent Manuscripts Collection.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest">History of Medicine Collections (Duke University)</corpname>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>
